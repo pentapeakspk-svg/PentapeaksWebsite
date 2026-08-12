@@ -1,0 +1,8 @@
+# robots.txt for Penta Peaks International
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /student/
+Disallow: /api/
+
+Sitemap: https://pentapeaks.com/sitemap.xml
