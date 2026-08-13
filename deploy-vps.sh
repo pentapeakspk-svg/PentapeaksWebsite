@@ -30,6 +30,10 @@ npx prisma db push
 echo "5. Building Next.js application..."
 npm run build
 
+echo "5.5 Copying static assets to standalone folder..."
+cp -r public .next/standalone/
+cp -r .next/static .next/standalone/.next/
+
 echo "6. Restarting application via PM2..."
 pm2 reload $PM2_APP_NAME
 
