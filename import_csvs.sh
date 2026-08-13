@@ -5,7 +5,7 @@ echo "=========================================="
 echo "Starting Data Import from CSV files"
 echo "=========================================="
 
-DB_NAME="pentapeaks_db"
+DB_NAME="pentapeaks"
 CSV_DIR="/var/www/pentapeaks/csv_data"
 
 import_table() {
