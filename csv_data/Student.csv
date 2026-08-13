@@ -1,0 +1,388 @@
+id,userId,rollNo,phone,city,education,enrollmentType,batchId,paid,blocked,isRead,createdAt
+cmp6ogrxu0002jp04opkj8j1o,cmp6ogrxu0000jp04w6y6ne6v,M001,+923009259303,"Karachi, Pakistan ",Bachelor's,MENTORSHIP,,false,false,true,2026-05-15 08:50:59.058
+cmp7y64nb0002kz04l16w555b,cmp7y64nb0000kz04uuu3cbbl,M002,+923339879905,Mardan,Master's,MENTORSHIP,,false,false,true,2026-05-16 06:10:24.647
+cmp88c5a90002l804hpawbqec,cmp88c5a90000l8048a9jnme9,B-002-001-pthv,+93350542770,Islamabad,Bachelor's,BATCH,,false,false,true,2026-05-16 10:55:01.569
+cmpcayz810002l704ahl7pfkl,cmpcayz810000l7047kiiozie,B05001,03045888915,"Jatoi muzaffargharh ",Matric,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-19 07:19:50.737
+cmpcc93v10002ky04cuhox5pi,cmpcc93v00000ky04uo54l1zs,B05002,+923127576164,Rawalpindi,,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-19 07:55:42.925
+cmpcc9eg90005ky04mfbi7532,cmpcc9eg80003ky04o6pggyvj,B05003,3234210820,"Lahore, Pakistan",Other,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-19 07:55:56.649
+cmpccafuj0002l8049knljo72,cmpccafuj0000l804dmoco41b,B05004,+923335345241,"Islamabad ",Master's,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-19 07:56:44.062
+cmpccd2kl0008ky04tr8zen45,cmpccd2kl0006ky04dlayu1ah,B05005,03312422972,لاہور,Bachelor's,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-19 07:58:47.878
+cmpcec0sk0002ib04jec0wlu4,cmpcec0sk0000ib04lw1xm5c3,B05006,03367090728,"Karachi ",Other,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-19 08:53:58.148
+cmpcekpwr0002l805vyuanpoh,cmpcekpwr0000l805fe92b4ot,B05007,+923213891933,"Karachi ",,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-19 09:00:43.947
+cmpceo5av0005l8054aoaovz1,cmpceo5av0003l805vm4iaa81,B05008,03364447441,"Faisalabad ",Bachelor's,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-19 09:03:23.863
+cmpcfjanj0002l7046vo97cz0,cmpcfjanj0000l704rcwhcjo4,B05009,03172013143,Lahore Pakistan,Other,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-19 09:27:37.136
+cmpcfncys0002l80451gm6d16,cmpcfncys0000l804xwehviga,B05010,+923297308892,Wazirabad,Intermediate,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-19 09:30:46.756
+cmpcfujpj0005l804yp2bk51l,cmpcfujpj0003l804oytcko7d,B05011,+92 3317440055,"Karachi ",Other,BATCH,cmpblfjl10000l204e2inoxr5,true,false,true,2026-05-19 09:36:19.836
+cmpcfva240002l204mxvo9zo3,cmpcfva240000l204u9aupz5d,B05012,+923017195870,Lahore,Bachelor's,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-19 09:36:56.236
+cmpcgfqor0002jr04zekffxi7,cmpcgfqor0000jr04gjn7hw3a,B05017,+923012724319,Sialkot,Master's,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-19 09:52:50.908
+cmpcjwqok0002la04do4dapf7,cmpcjwqok0000la04lb3eea7q,B06005,03140668388,"Multan/Pakistan ",Intermediate,BATCH,cmpblfjl10000l204e2inoxr5,true,false,true,2026-05-19 11:30:02.9
+cmpck7y6m0005la04zpwmuep3,cmpck7y6m0003la04x6icy1av,B06006,+923324880555,Lahore,,BATCH,cmpblfjl10000l204e2inoxr5,true,false,true,2026-05-19 11:38:45.839
+cmpcn6der0002kt04atr8glyq,cmpcn6deq0000kt043489hvf5,B06007,+923161567655,"Abbottabad ",Other,BATCH,cmpblfjl10000l204e2inoxr5,true,false,true,2026-05-19 13:01:31.107
+cmpco26ij0002l104bval1h87,cmpco26ij0000l10409blps87,B06008,+97450043485,Doha/Qatar,Bachelor's,BATCH,cmpblfjl10000l204e2inoxr5,true,false,true,2026-05-19 13:26:15.163
+cmpcojpcx0002kv04m61tb3dh,cmpcojpcx0000kv043rb12z1e,B06009,03348896405,"Peshawar Pakistan ",Bachelor's,BATCH,cmpblfjl10000l204e2inoxr5,true,false,true,2026-05-19 13:39:52.737
+cmpcpcan90002la04lqe9foi0,cmpcpcan90000la04q02hrgcj,B06010,03193040327,"Toba tak singh ",,BATCH,cmpblfjl10000l204e2inoxr5,true,false,true,2026-05-19 14:02:06.693
+cmpcwvcx10002l704yk43k47g,cmpcwvcx00000l7044iiwd5rk,B06011,03453110011,"shikarpur ",Bachelor's,BATCH,cmpblfjl10000l204e2inoxr5,true,false,true,2026-05-19 17:32:53.413
+cmpduu2360004jj04lo8x7h59,cmpduu2360002jj04xm1pwz1h,B06013,+923224562561,Lahore Punjab,Bachelor's,BATCH,cmpblfjl10000l204e2inoxr5,true,false,true,2026-05-20 09:23:39.666
+cmpe22g0o0002le04xj2j2tuq,cmpe22g0o0000le04sxel2hla,B06014,+923092388199,"Karachi Pakistan ",Intermediate,BATCH,cmpblfjl10000l204e2inoxr5,true,false,true,2026-05-20 12:46:08.281
+cmpe61mur0005kz04b03uoewv,cmpe61mur0003kz04lmflkzsw,B06016,03064228852,Lahore,Master's,BATCH,cmpblfjl10000l204e2inoxr5,true,false,true,2026-05-20 14:37:28.947
+cmpfaouqm0002l5045nc3oc3y,cmpfaouqm0000l504dqrh1gm9,B05028,03018886440,peshawar,Intermediate,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-21 09:35:16.894
+cmpfdiqtf0002js04gfa4jizo,cmpfdiqtf0000js04mlg0zanl,B05029,12345678,lahiore,Matric,BATCH,cmpcajvdb0000l504o20iut2j,true,false,true,2026-05-21 10:54:30.723
+cmpgv6isn0004lb04ylld74e4,cmpgv6isn0002lb046t2def5u,M003,+923027901134,"Jahania/Pakistan ",Intermediate,MENTORSHIP,,false,false,true,2026-05-22 11:56:39.72
+cmph11zqc0002k104qd7jh6bu,cmph11zqc0000k104b4wh6wuy,B06019,03148287384,Karachi,Intermediate,BATCH,cmpblfjl10000l204e2inoxr5,true,false,true,2026-05-22 14:41:06.084
+cmphlokfx0002ie045f9swd5n,cmphlokfx0000ie047rqqb29j,B05030,03030740099,Lahore,Bachelor's,BATCH,cmpblfjl10000l204e2inoxr5,false,false,true,2026-05-23 00:18:31.677
+cmphyqt060002jr046lkidbtd,cmphyqt060000jr0487nr9kvb,M004,+923330375931,Karachi,Intermediate,MENTORSHIP,cmpblfjl10000l204e2inoxr5,false,false,true,2026-05-23 06:24:11.094
+cmpim8hf20002i904cvtmh12i,cmpim8hf10000i904rs60xk3f,B07 Upcoming 08 June 2026001,03090399399,Pattoki,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-23 17:21:47.054
+cmpivs5yh0002kw04ii1bf3hj,cmpivs5yh0000kw04sxzt8wix,B07 Upcoming 08 June 2026002,+923060807171,"Lahore, Pakistan",Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-23 21:49:01.865
+cmpjg4hx00002ky044bp5zel9,cmpjg4hx00000ky041oqm80nz,B07 Upcoming 08 June 2026003,+923251777168,"Karachi, Pakistan ",Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-24 07:18:29.556
+cmpjrrewk0002ky04afr3w9sg,cmpjrrewk0000ky047q8mfenc,B07 Upcoming 08 June 2026004,+923010695387,Faisalabad,Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-24 12:44:14.516
+cmpjuniyf0002ld047ie2wlkb,cmpjuniye0000ld043a18ajum,B07 Upcoming 08 June 2026005,+923037222278,Lahore pakistan,Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-24 14:05:11.991
+cmpkw57f70002jf04wniwxsnv,cmpkw57f70000jf04dq3vdnnd,M006,+923065564465,Kabirwala,Bachelor's,MENTORSHIP,cmpblfjl10000l204e2inoxr5,false,false,true,2026-05-25 07:34:42.643
+cmpl0c4o70002jl04icmbagu8,cmpl0c4o60000jl04zsp4tn4x,B07 Upcoming 08 June 2026006,+923458165758,Bhakkar,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-25 09:32:04.135
+cmpl0za270002jv042wwkh96a,cmpl0za270000jv04hcyqyg3a,M007,+923291082766,Sargodha,Matric,MENTORSHIP,cmpblfjl10000l204e2inoxr5,false,false,true,2026-05-25 09:50:04.207
+cmpm51hg00003l704dfgyqngp,cmpm51hg00001l704nhmyea7g,B07 Upcoming 08 June 2026007,03494753175,"Gujrat ",Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-26 04:31:31.729
+cmpmdx07o0003jl04tpwal22w,cmpmdx07o0001jl04ncvxz3kz,M008,03251164719,district vehari Adda machiwala,Intermediate,MENTORSHIP,,false,false,true,2026-05-26 08:39:59.316
+cmpmdyizk0006jl04yg64t7bw,cmpmdyizk0004jl04gj6u9b77,M009,03251164719,district vehari Adda machiwala,Intermediate,MENTORSHIP,,false,false,true,2026-05-26 08:41:10.304
+cmpmhti1y0002jr04sr7qkt8v,cmpmhti1y0000jr042w2qxnxm,B07 Upcoming 08 June 2026008,03170420377,"Mailsi,Pakistan",Matric,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-26 10:29:14.278
+cmpqoyvzr0002ie04osi5247q,cmpqoyvzr0000ie04h8uo41io,B07 Upcoming 08 June 2026010,"0316-4149829 ",Lahore,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-29 09:00:27.639
+cmpqp590d0002jv04tbd2wpqb,cmpqp590d0000jv04usa5ewfv,M010,"0333-0463679 ",Lahore,Bachelor's,MENTORSHIP,,false,false,true,2026-05-29 09:05:24.445
+cmpqp6gqv0008jv04lkhtjmmr,cmpqp6gqv0006jv04t0u9j6k7,M012,"0333-0463679 ",Lahore,Bachelor's,MENTORSHIP,,false,false,true,2026-05-29 09:06:21.127
+cmpqrzejh0002la0440287y8t,cmpqrzejg0000la04ty0e958o,B07 Upcoming 08 June 2026011,+923014086161,Gujrat,Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-29 10:24:50.525
+cmpqw1vf30002l504w8sd4ka6,cmpqw1vf30000l504o62h8iuh,B07 Upcoming 08 June 2026012,03061132234,Hyderabad/Pakistan,Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-29 12:18:44.175
+cmpqyv4zy0002l204ydf94r5f,cmpqyv4zx0000l2045hmkgmod,B07 Upcoming 08 June 2026013,+923156343549,"Multay/Pakistan ",Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-29 13:37:28.846
+cmpr4hsdn0002l5041d5vuec1,cmpr4hsdn0000l504b3nrhmcy,M013,+37063629223,"Lithuania ",Bachelor's,MENTORSHIP,,false,false,true,2026-05-29 16:15:03.659
+cmpsuh7ns0003l204c1t5lptk,cmpsuh7ns0001l204fq5p576e,B07 Upcoming 08 June 2026014,+923063157499,Sahiwal Pakistan,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-30 21:10:13.001
+cmpsz14jh0002jm05b9rz1q2c,cmpsz14jh0000jm05obhj0g51,B07 Upcoming 08 June 2026015,03315385073,Faisalabad,,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-30 23:17:40.541
+cmpt9e2f20003jo04bwu2lpsi,cmpt9e2f20001jo042jkkwhiy,B07 Upcoming 08 June 2026016,+92 3332513875,"Karachi ",Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-31 04:07:40.478
+cmptpzw4i0002la04yz4e4l4a,cmptpzw4i0000la04187vz6nc,M014,+923066661439,Lahore,Bachelor's,MENTORSHIP,,false,false,true,2026-05-31 11:52:32.61
+cmptz2o4n0002jr048j33kob7,cmptz2o4n0000jr04ln82npyx,B07 Upcoming 08 June 2026017,03104191007,"Lahore ",Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-31 16:06:38.759
+cmpu3ceco0002k104577kip7v,cmpu3ceco0000k104alh96cb0,B07 Upcoming 08 June 2026018,03477662254,Abbottabad,PhD,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-31 18:06:11.112
+cmpue3zfj0002l704ft7lczh9,cmpue3zfj0000l704nbujphg4,B07 Upcoming 08 June 2026019,+923490810771,"Hyderabad Pakistan ",Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-05-31 23:07:34.303
+cmpuj5w060002ju04kunbp3ah,cmpuj5w060000ju04qo9n98ex,M015,+923062213905,Karachi,Intermediate,MENTORSHIP,,false,false,true,2026-06-01 01:29:01.254
+cmpusjgfr0002kv04hzkgeldb,cmpusjgfq0000kv04bp23dn9m,B07 Upcoming 08 June 2026021,+923004172647,Lahore,Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-01 05:51:30.807
+cmputq4ll0002ji04440xizk4,cmputq4ll0000ji04iknnzpqs,B07 Upcoming 08 June 2026022,+923104233340,Kasur,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-01 06:24:41.673
+cmpuvae5l0002l8049uxh2lir,cmpuvae5l0000l804ijypkkqm,B07 Upcoming 08 June 2026025,+923415418733,"Faisalabad, Pakistan ",Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-01 07:08:26.793
+cmpuvxat90003l10438uoncwy,cmpuvxat90001l1043x4pr1g5,B07 Upcoming 08 June 2026026,+923324306354,"Lahore,Pakistan",Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-01 07:26:15.55
+cmpuxxzvu0002l204641cc231,cmpuxxzvu0000l204bo4d735y,B07 Upcoming 08 June 2026027,03077083232,"Okara,Pakistan",Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-01 08:22:47.047
+cmpuzip100002if04omez54kl,cmpuzip100000if04e7fm10hy,B07 Upcoming 08 June 2026029,+966551183388,Jeddah,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-01 09:06:52.596
+cmpv4kd6q0003js04xv2qx3oc,cmpv4kd6p0001js047p1ei9m4,B07 Upcoming 08 June 2026032,+351920062081,Gujrat/ Pakistan,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-01 11:28:08.642
+cmpv4mizh0006js04bhrmqv3y,cmpv4mizh0004js04l3kdq9b1,M016,"03056042000 ",Karachi,Intermediate,MENTORSHIP,,false,false,true,2026-06-01 11:29:49.47
+cmpv4odui0002jx04lo69o2ky,cmpv4odui0000jx040couogel,B07 Upcoming 08 June 2026033,03487973153,Islamabad,Master's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-01 11:31:16.123
+cmpvenips0002la04j90ifl8g,cmpvenips0000la04d6mur0ra,B07 Upcoming 08 June 2026034,+923152266765,"Attock ",Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-01 16:10:31.937
+cmpvgpbic0002l504ko3fmp5i,cmpvgpbic0000l504y8zhi36r,B07 Upcoming 08 June 2026035,03162950989,"Karachi, Pakistan",Master's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-01 17:07:55.14
+cmpvplyxq0003l504a3nuhkxt,cmpvplyxq0001l504nlepqmcr,B07 Upcoming 08 June 2026036,+923337432900,"Karachi, Pakistan",Master's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-01 21:17:15.423
+cmpvuqya60003jp04vmeokbsf,cmpvuqya60001jp04xcfa29jg,B07 Upcoming 08 June 2026037,03218877443,"Lahore pakistan ",Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-01 23:41:05.934
+cmpwanvzk0002l104we915t7w,cmpwanvzj0000l104g6wisllo,B07 Upcoming 08 June 2026038,03297422223,"Lahore Pakistan ",Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-02 07:06:36.848
+cmpwg0p6w0002le04zc9da25j,cmpwg0p6w0000le04f7wz5zce,B07 Upcoming 08 June 2026039,03136433180,"Lahore, Pakistan ",Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-02 09:36:32.649
+cmpwi38fz0002ju04nsij3k15,cmpwi38fz0000ju04yj39x8k8,M017,+923113217425,Tando Allahyar Sindh,Matric,MENTORSHIP,,false,false,true,2026-06-02 10:34:30.143
+cmpwl6ys20005kq048gp37bxl,cmpwl6ys20003kq04u06630mi,B07 Upcoming 08 June 2026040,03154486219,Multan,Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-02 12:01:23.091
+cmpwy0iqk0002jo04gy25a9t8,cmpwy0iqj0000jo04k2o776ph,B07 Upcoming 08 June 2026041,+923324833806,Lahore pakistan,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-02 18:00:17.372
+cmpwy0x440005jo046ntx45fi,cmpwy0x440003jo04jfeihjvd,B07 Upcoming 08 June 2026042,+923324833806,Lahore pakistan,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-02 18:00:36.005
+cmpxchii80002l60436va7k3y,cmpxchii70000l604ktjewfr2,B07 Upcoming 08 June 2026043,+447474687937,Karachi,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-03 00:45:24.848
+cmpxre4r50005l204ba4qiqc0,cmpxre4r50003l204tgi35gbv,B07 Upcoming 08 June 2026044,+923156530523,"Lahore , Pakistan",Master's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-03 07:42:41.297
+cmpxzo0oi0002ib043ntagxmi,cmpxzo0oi0000ib0469c0vxou,B07 Upcoming 08 June 2026045,+923164408846,Langiyan Da Thatta,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-03 11:34:19.507
+cmpybwntd0003jp04glrws246,cmpybwntd0001jp04asykkegd,B07 Upcoming 08 June 2026046,+923042510191,لاہور,Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-03 17:16:58.129
+cmpyt1j0l0002lb04ulmibvg3,cmpyt1j0l0000lb042rwtepkc,M018,"+966535757865 ","Faslabad ",,MENTORSHIP,,false,false,true,2026-06-04 01:16:38.661
+cmpz99dh30003l40439hppwyg,cmpz99dh30001l404omurho59,B07 Upcoming 08 June 2026049,03161187623,Pakistan karachi,Other,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-04 08:50:38.583
+cmpza2bhj0003l704shimnu36,cmpza2bhj0001l704ulo6ayd6,B07 Upcoming 08 June 2026050,+923182146277,Bahawalpur,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-04 09:13:09.032
+cmpzalqi30002jm04kll0zhco,cmpzalqi30000jm04w7dni1f0,M019,03358022756,Lahore Pakistan,Bachelor's,MENTORSHIP,,false,false,true,2026-06-04 09:28:14.955
+cmpzd8sex0002l1040te83ioc,cmpzd8sex0000l104k32g7uee,B07 Upcoming 08 June 2026051,+923141995624,Khanpur,Matric,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-04 10:42:09.753
+cmpzdu3qq0002jp044gzs9x6d,cmpzdu3qq0000jp04hbs2nqmu,B07 Upcoming 08 June 2026052,+923063361888,Islamabad,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-04 10:58:44.21
+cmpzgdt0i0002ky047an3v2yz,cmpzgdt0i0000ky04tg31zldq,M020,+923182146277,Bahawalpur,Bachelor's,MENTORSHIP,,false,false,true,2026-06-04 12:10:02.659
+cmpzqdc8d0002lb04n5rcwub3,cmpzqdc8d0000lb04wahk3znu,B07 Upcoming 08 June 2026053,+923070371910,کوٹ اد و,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-04 16:49:37.069
+cmq0kbcqe0002l104ae7vf0kh,cmq0kbcqe0000l10441quatfv,M021,03459413064,"Pakistan Karachi ",Intermediate,MENTORSHIP,,false,false,true,2026-06-05 06:47:52.886
+cmq0l85jo0003k1040csdpx73,cmq0l85jo0001k104rxu983qt,B07 Upcoming 08 June 2026055,+923227740828,sargodha,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-05 07:13:23.22
+cmq0u3rmi0002jj04uzju0j00,cmq0u3rmi0000jj0413jcqinv,B07 Upcoming 08 June 2026056,+923041390232,"Faisalabad ",Master's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-05 11:21:55.098
+cmq133n4r0003kz04vvgsocu2,cmq133n4q0001kz041djfkvv9,B07 Upcoming 08 June 2026057,03017781780,Shujabad,Other,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-05 15:33:45.819
+cmq1asmiy0002ib049yzunfyw,cmq1asmix0000ib04p2nqhyka,B07 Upcoming 08 June 2026058,+923310207722,karachi,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-05 19:09:08.746
+cmq1flx660002jj04po1hmpza,cmq1flx660000jj0411hxalnh,B07 Upcoming 08 June 2026059,03349911842,Peshawar,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-05 21:23:54.03
+cmq1upqs20002l404imo4nqls,cmq1upqs10000l404rumbv7sx,B07 Upcoming 08 June 2026060,03094150989,Lahore,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-06 04:26:46.61
+cmq1xryhf0002l704ycez30nv,cmq1xryhf0000l7043n8x5ean,B07 Upcoming 08 June 2026061,+923260525249,"Faisalabad, Pakistan",Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-06 05:52:28.756
+cmq29ov8j0002la04iumrz9ti,cmq29ov8j0000la04teyg09jd,B07 Upcoming 08 June 2026062,+923120202881,Karachi,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-06 11:25:59.971
+cmq2a5te30005jo0412e6creg,cmq2a5te30003jo0433yu1k1q,B07 Upcoming 08 June 2026064,00966593277144,Riyadh saudi arabia,Intermediate,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-06 11:39:10.731
+cmq3w09vy0004l404egw44cjf,cmq3w09vy0002l4044o8uph8l,B07 Upcoming 08 June 2026065,+923011405315,Kasur,Bachelor's,BATCH,cmpigctvg0000i60456sxp4gt,false,false,true,2026-06-07 14:38:29.902
+cmq50vbg60002la04ca6koqdd,cmq50vbg60000la0427jieqvk,M022,03358022756,Lahore Pakistan,Bachelor's,MENTORSHIP,,true,false,true,2026-06-08 09:42:22.902
+cmq56oeh90002l4045g0d8srd,cmq56oeh90000l4043djr669v,B07 / 10 June001,03016233999,"Gujrat ",Master's,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-08 12:24:57.933
+cmq587row0005l5043k6sk2iy,cmq587row0003l504zsijdfif,B07 / 10 June003,+923424545850,Lahore,Intermediate,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-08 13:08:01.136
+cmq58hlxk0002la04ltnyvt5p,cmq58hlxk0000la04eqmmys36,B07 / 10 June004,+92 3323922989,"Karachi, Pakistan",Intermediate,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-08 13:15:40.232
+cmq59a5eh0002l804099mmy8a,cmq59a5eg0000l804k9q16emm,B07 / 10 June005,+923225073740,"Islamabad ",Master's,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-08 13:37:51.833
+cmq5avc5k0002lb04bbnc079s,cmq5avc5k0000lb04khixdcdn,B07 / 10 June006,+92 311 3705221,Karachi,Bachelor's,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-08 14:22:19.977
+cmq5u0cul0002l804996gcdpl,cmq5u0cul0000l804ej6nmbas,B07 / 10 June007,+1929 235 4441,Rego Park,Bachelor's,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-08 23:18:06.861
+cmq68gaer0002ld0449wuujjr,cmq68gaer0000ld04zxvyqhxc,B07 / 10 June008,03295652351,Sarai Alamgir,Intermediate,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-09 06:02:24.819
+cmq68srm40005ld04el5vxyug,cmq68srm40003ld04vnmt5w3k,B07 / 10 June009,+923116128259,Vehari,Intermediate,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-09 06:12:06.989
+cmq6bex6u0002ie048mwvd3mp,cmq6bex6u0000ie04lbabro3d,B07 / 10 June010,+92 341 5111934,Islamabad,Master's,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-09 07:25:19.878
+cmq6gg6460002l404lqom5gpq,cmq6gg6460000l4042zn6b1yy,B07 / 10 June011,0332-4032530,Sheikhupura,Bachelor's,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-09 09:46:16.182
+cmq6ih0kg0002ic0420xl3hil,cmq6ih0kg0000ic04obzo5jjo,B07 / 10 June012,00923352770777,Nabeel,Bachelor's,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-09 10:42:54.881
+cmq6kfsp10002l504nm7lgd79,cmq6kfsp10000l5048llv9l6x,B07 / 10 June013,03291669328,Rahimyar khan punjab,Matric,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-09 11:37:57.253
+cmq6qi8e40002ju0400txx9ov,cmq6qi8e40000ju04cxvq0jwd,M023,+923038597556,"Multan, Pakistan ",Bachelor's,MENTORSHIP,,false,false,true,2026-06-09 14:27:48.605
+cmq6r14vw0004ik04oyzukkko,cmq6r14vw0002ik04pjbaa3s9,B07 / 10 June014,03322178900,"Sialkot ",Bachelor's,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-09 14:42:30.524
+cmq6ww1ue0002l504eegfhesc,cmq6ww1ud0000l5048ibfwujs,B07 / 10 June015,+923310254300,KARACHI,Matric,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-09 17:26:30.998
+cmq753cia0002jo04djyqdg8k,cmq753cia0000jo04mjeaqhsw,B07 / 10 June017,03342234782,"Karachi, Pakistan",Bachelor's,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-09 21:16:08.339
+cmq76cryr0002l804mwmsljjr,cmq76cryr0000l804qcjwa25p,M024,03449053006,Peshawar pak,Matric,MENTORSHIP,,false,false,true,2026-06-09 21:51:27.891
+cmq7nnmsf0002l504azeg3zrz,cmq7nnmsf0000l504bmj0jduq,B07 / 10 June018,03184074544,"Lahore Pakistan ",Intermediate,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-10 05:55:47.872
+cmq7pufl60002kz04ksi33a9l,cmq7pufl60000kz04ie954wxt,B07 / 10 June019,+923341557320,RAWALPINDI,Master's,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-10 06:57:04.362
+cmq85zdrr0002i6042luofpbc,cmq85zdrr0000i6046mxq9zno,B07 / 10 June020,+923324554019,Lahore,,BATCH,cmq4tubg50001jv04zkahc11j,true,false,true,2026-06-10 14:28:49.143
+cmqcc0swp0002js04vdwbp59l,cmqcc0swo0000js04i59r7n1p,M025,923008224424,"Karachi, Pakistan",,MENTORSHIP,,true,false,true,2026-06-13 12:28:57.817
+cmqchdebw0002jt04gutdf0mg,cmqchdebw0000jt04w1us2g7p,M026,03409445364,Multan,Master's,MENTORSHIP,,false,false,true,2026-06-13 14:58:43.532
+cmqdh17z60002kw04qdlemwrk,cmqdh17z60000kw04s2zfdf8o,M027,03352017401,"Karachi, Pakistan ",Bachelor's,MENTORSHIP,,false,false,true,2026-06-14 07:37:01.603
+cmqdidzpk0002im04jcwn7qy0,cmqdidzpk0000im04p0jsqhg3,B08 / 15 June004,+923008376009,"Hyderabad, Pakistan",Bachelor's,BATCH,cmq4trtgc0000jv04zb4ys2rm,true,false,true,2026-06-14 08:14:57.033
+cmqdlpj0o0002ju04ditvvkck,cmqdlpj0o0000ju04ujragkel,B08 / 16 June005,+923124535188,Gujranwala,Master's,BATCH,cmq4trtgc0000jv04zb4ys2rm,true,false,true,2026-06-14 09:47:54.121
+cmqdmc5050002l1045cd8aey1,cmqdmc5050000l104l5g9m2my,B08 / 16 June006,+923189563198,aqsayounas001@gmail.com,,BATCH,cmq4trtgc0000jv04zb4ys2rm,true,false,true,2026-06-14 10:05:29.045
+cmqdmjo8t0002l704merb7m3g,cmqdmjo8t0000l704w4i6fynu,B08 / 16 June007,+923444644475,arslanshabraiz@gmail.com,Bachelor's,BATCH,cmq4trtgc0000jv04zb4ys2rm,true,false,true,2026-06-14 10:11:20.574
+cmqeiiscg0002l504vnlsottn,cmqeiiscg0000l504829tq7kv,M028,03333550514,Rahimyar khan,Master's,MENTORSHIP,,false,false,true,2026-06-15 01:06:26.945
+cmqexdyfk0002jt04dbx8l3sh,cmqexdyfk0000jt04rrw3n4hl,M029,03055818923,Faisalabad,Bachelor's,MENTORSHIP,,false,false,true,2026-06-15 08:02:35.792
+cmqgbnnb10004jy04weanzacn,cmqgbnnb10002jy041y1ro1gn,B08 / 16 June008,03150618892,Dera ghazi khan,Bachelor's,BATCH,cmq4trtgc0000jv04zb4ys2rm,true,false,true,2026-06-16 07:29:48.733
+cmqhw2wwr0002l804d5v6se3i,cmqhw2wwr0000l804jnsgqknd,B08 / 16 June009,+97455519814,Qatar,Master's,BATCH,cmq4trtgc0000jv04zb4ys2rm,true,false,true,2026-06-17 09:49:19.515
+cmqi7ll0f0002jr04zdmwcw0a,cmqi7ll0f0000jr04hscl148p,M031,03335753735,"islamabad,pakistan",Other,MENTORSHIP,,false,false,true,2026-06-17 15:11:46.336
+cmqiab6w70003i9042v6rbyu8,cmqiab6w70001i904w1y4h198,B08 / 16 June010,+923019596700,Sheikhupura,Master's,BATCH,cmq4trtgc0000jv04zb4ys2rm,false,false,true,2026-06-17 16:27:40.328
+cmqihmi9g0002js0457qufq69,cmqihmi9g0000js04y45hnckz,M032,+923185333156,Islamabad,Matric,MENTORSHIP,,false,false,true,2026-06-17 19:52:25.588
+cmqj4t1rb0002l4046kt7w8c0,cmqj4t1rb0000l404r3bkt3qg,B08 / 16 June011,+923172660699,C103,Intermediate,BATCH,cmq4trtgc0000jv04zb4ys2rm,true,false,true,2026-06-18 06:41:21.959
+cmqjwwjag0002l504v3mqtcv2,cmqjwwjag0000l504riqxdzyz,B08 / 16 June012,"+923000958128 ","Gujranwala, Pakistan ",Master's,BATCH,cmq4trtgc0000jv04zb4ys2rm,false,false,true,2026-06-18 19:47:53.897
+cmqjxqi2f0002jo04qk1k2ct1,cmqjxqi2f0000jo04clnef9pc,B08 / 16 June013,+923123178317,"Lahore,Pakistan",Bachelor's,BATCH,cmq4trtgc0000jv04zb4ys2rm,false,false,true,2026-06-18 20:11:11.992
+cmqo6o3am0002jn04bx7bfxtc,cmqo6o3am0000jn04yh4hfazy,B09 / 29 June001,+923063157499,Sahiwal,Master's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-21 19:32:20.782
+cmqov6cym0002la05vcw5cpk1,cmqov6cym0000la053gn80atc,B09 / 29 June002,03134085347,Faisalabad pakistan,Matric,BATCH,cmqmenrlp0000jv04j1xly1hq,false,false,true,2026-06-22 06:58:23.903
+cmqp0nc130002jp0509wnoxmw,cmqp0nc130000jp055hggkzfn,B09 / 29 June003,+923328831887,Sukkur/Pakistan,Master's,BATCH,cmqmenrlp0000jv04j1xly1hq,false,false,true,2026-06-22 09:31:33.928
+cmqph3l7b0002jp04soag834l,cmqph3l7b0000jp043u7slhe3,B09 / 29 June004,03173500370,"TondoAllahyar ",Matric,BATCH,cmqmenrlp0000jv04j1xly1hq,false,false,true,2026-06-22 17:12:06.168
+cmqpliv7p0002jr04hfbybqwu,cmqpliv7o0000jr04cip5ve1z,B09 / 29 June005,+923475021243,Hassan Abdal,Bachelor's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-22 19:15:57.445
+cmqrvrocq0002jo04oqmsb9aj,cmqrvrocq0000jo04jfjbuzse,B09 / 29 June007,03191600062,Lahore pakistan,Matric,BATCH,cmqmenrlp0000jv04j1xly1hq,false,false,true,2026-06-24 09:38:16.97
+cmqs0q5ld0002lg040yvxwcar,cmqs0q5ld0000lg04qo325go6,B09 / 29 June008,"+92 3001671350 ","Lodhran, Pakistan ",Intermediate,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-24 11:57:04.081
+cmqsca3i50002jr04wxi16wea,cmqsca3i50000jr044ncnhhgf,M033,+923004776617,Lahore,Bachelor's,MENTORSHIP,,false,false,true,2026-06-24 17:20:30.269
+cmqsk3oad0002le04hljustzn,cmqsk3oac0000le04mzhljo7n,M035,03190638146,"Lahore ",Bachelor's,MENTORSHIP,,false,false,true,2026-06-24 20:59:27.541
+cmqsmvqfk0002i604p1b68bpj,cmqsmvqfk0000i604vog3krmu,M036,+971551049984,Dubai,Master's,MENTORSHIP,,false,false,true,2026-06-24 22:17:15.92
+cmqt97iww0005jo040nlemxax,cmqt97iwv0003jo042iidzyv7,B09 / 29 June011,03024136366,"Sahiwal ",Intermediate,BATCH,cmqmenrlp0000jv04j1xly1hq,false,false,true,2026-06-25 08:42:17.6
+cmqtuac200002l404zpk0u502,cmqtuac200000l404ibrb10p1,B09 / 29 June012,03095859275,Islamabad,Bachelor's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-25 18:32:20.617
+cmquivl9y0002l404xhel0nvr,cmquivl9y0000l404kj34as5y,B09 / 29 June013,03078895593,Pakistan,Master's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-26 06:00:43.126
+cmquroemw0002ju04nuuuofpm,cmquroemw0000ju04l2xypgem,B09 / 29 June014,03315549735,"Faislabad,Pakistan ",Intermediate,BATCH,cmqmenrlp0000jv04j1xly1hq,false,false,true,2026-06-26 10:07:04.473
+cmqurtd0o0005ju04h4s35xyj,cmqurtd0o0003ju04pl1iwr13,M037,03366004072,"Shujabad ",Bachelor's,MENTORSHIP,,true,false,true,2026-06-26 10:10:55.656
+cmquxt2km0002l804o6tactu1,cmquxt2km0000l804mdv5jgch,B09 / 29 June015,03322238270,karachi,Intermediate,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-26 12:58:39.814
+cmqv7pr760002l7049xlf6yuj,cmqv7pr760000l7042lgazl2l,M038,+923125119896,Rawalpindi,Bachelor's,MENTORSHIP,,false,false,true,2026-06-26 17:36:01.266
+cmqvsz19c0002jl04se0j0nu2,cmqvsz19c0000jl04e9xfgxy8,B09 / 29 June016,03355036347,"peshawar ",Intermediate,BATCH,cmqmenrlp0000jv04j1xly1hq,false,false,true,2026-06-27 03:31:06.144
+cmqw0qidf0002l2049ns5r3gz,cmqw0qide0000l204u6b9eeah,B09 / 29 June017,03091094772,Sialkot,Other,BATCH,cmqmenrlp0000jv04j1xly1hq,false,false,true,2026-06-27 07:08:25.347
+cmqw3xz7q0002ju047vsnym5p,cmqw3xz7q0000ju04feeso2en,B09 / 29 June018,+923226595656,Kasur,Bachelor's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-27 08:38:12.614
+cmqx3dzlk0002l404wq2m2tyr,cmqx3dzlk0000l404aaeyz947,BK11/06 July001,03151916722,Peshawar Pakistan,Bachelor's,BATCH,cmqw8vwhi0000jp041gsg24q8,false,false,true,2026-06-28 01:10:26.168
+cmqxgs00b0002id0491i5z2sd,cmqxgs00b0000id040fwtmy48,B09 / 29 June019,+92 3479173087,Sohawa,,BATCH,cmqmenrlp0000jv04j1xly1hq,false,false,true,2026-06-28 07:25:14.891
+cmqxi2li10002i804t2bh1nb5,cmqxi2li10000i8040uw5qyf3,B09 / 29 June020,+92 3479173087,"Jhelum ",,BATCH,,false,false,true,2026-06-28 08:01:28.921
+cmqxytjax0002l204t1o631om,cmqxytjax0000l2046i998hr0,B09 / 29 June021,+923334781564,Lahore,Master's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-28 15:50:19.642
+cmqy7gnx60002k104790ubqqb,cmqy7gnx50000k104ohjo02ma,BK11/06 July003,03343265203,Karachi / Pakistan,Bachelor's,BATCH,cmqw8vwhi0000jp041gsg24q8,false,false,true,2026-06-28 19:52:15.642
+cmqylolcg0002ky04t1v3khin,cmqylolcg0000ky04594g299k,M039,"  03344851616",Faisalabad,Bachelor's,MENTORSHIP,,false,false,true,2026-06-29 02:30:20.176
+cmqyo3wrx0002jp049biqtab9,cmqyo3wrx0000jp04e8w4o9ln,B09 / 29 June022,+923334056305,"Faisalabad, Punjab",Master's,BATCH,cmqmenrlp0000jv04j1xly1hq,false,false,true,2026-06-29 03:38:14.062
+cmqyxwap10002lb04se8xi9w0,cmqyxwap10000lb04pkafwxjc,M040,"335-3398809 ",Larkana/sindh,Intermediate,MENTORSHIP,,false,false,true,2026-06-29 08:12:15.013
+cmqz1xlch0002l204yakuvndo,cmqz1xlch0000l204d51o54uv,BK11/06 July004,+92 3263653147,Hyderabad sindh,Intermediate,BATCH,cmqw8vwhi0000jp041gsg24q8,false,false,true,2026-06-29 10:05:13.938
+cmqz3yb0t0003l104rdo0h15u,cmqz3yb0s0001l104xozaijwe,B09 / 29 June023,03000081177,Bahawalpur,Bachelor's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-29 11:01:46.445
+cmr0i99jc0004l404est3svr6,cmr0i99jb0002l404ka1hs26e,M041,03076876038,"Lahore Pakistan ",Master's,MENTORSHIP,,false,false,true,2026-06-30 10:29:58.536
+cmr0jo1410002l804u5q8xase,cmr0jo1410000l804l3gufija,B09 / 29 June024,+923005001381,Karachi,Master's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-30 11:09:27.073
+cmr0oasds0002l204iqgj0z8h,cmr0oasds0000l204riy77d3t,B09 / 29 June025,03136678558,Karachi,Bachelor's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-30 13:19:07.313
+cmr0qgopt0002l404etcwrq3i,cmr0qgopt0000l404p3jovbf5,B09 / 29 June026,03343265203,"Karachi, pakistan",Bachelor's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-30 14:19:41.73
+cmr0u5fc90002l704ruh0atu0,cmr0u5fc90000l704ru3ndewj,B09 / 29 June027,+923312873245,KARACHI,Bachelor's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-06-30 16:02:54.825
+cmr0w1ygg0002ju04tsyy94cb,cmr0w1ygg0000ju04l1exabcx,M042,+923006594020,"Lahore, Punjab",Intermediate,MENTORSHIP,,false,false,true,2026-06-30 16:56:12.209
+cmr0zxbvg0002l804qvbdv73x,cmr0zxbvg0000l804l2fqby5d,M043,03445386966,Rawalpindi,Matric,MENTORSHIP,,false,false,true,2026-06-30 18:44:34.78
+cmr1wtifr0002l504o8jhhmxr,cmr1wtifq0000l504b87nye91,B09 / 29 June030,03338633006,"Karachi ",Master's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-07-01 10:05:23.991
+cmr1ys6ij0002jr04e7y8ukhx,cmr1ys6ij0000jr045zp31eka,B09 / 29 June031,03704147127,"Sargodha ",Bachelor's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-07-01 11:00:21.115
+cmr3d2ais0002i80446vb0hcb,cmr3d2ais0000i804e6038eqj,B09 / 29 June032,03042713941,"Karachi,pakistan",Intermediate,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-07-02 10:27:53.668
+cmr3ji7gf0002l104ats06p6m,cmr3ji7gf0000l104obcbzptj,BK11/06 July008,+923326158414,Multan,Master's,BATCH,cmqmenrlp0000jv04j1xly1hq,true,false,true,2026-07-02 13:28:13.888
+cmr4qetkg0003lb04h7lyko6j,cmr4qetkg0001lb04xfvt57ya,BK11/06 July009,03177960604,"Dera Ismail khan ",Bachelor's,BATCH,cmqw8vwhi0000jp041gsg24q8,false,false,true,2026-07-03 09:29:19.409
+cmr83jxvq0002ic04179a22d0,cmr83jxvq0000ic04chx7wlin,B12/ 13 July001,03009212910,"Karachi, Pakistan",Master's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-05 18:00:31.814
+cmr8qt19u0002ju04vi7hgciv,cmr8qt19u0000ju042or6zy5w,B12/ 13 July002,+923375639528,Haripur,Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-06 04:51:27.282
+cmr92i8n00002ib040bbing1x,cmr92i8n00000ib046efb4r2b,B10 / 8 July 001,+923034650742,"Kasur Pakistan ",Intermediate,BATCH,cmqs86s2h0000jr04ir8qdft8,false,false,true,2026-07-06 10:18:59.004
+cmr98666e0002l404uuwdsv6e,cmr98666e0000l404u4cvg801,B12/ 13 July003,+923398050819,LAHORE,Intermediate,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-06 12:57:33.638
+cmr98xlej0002ky04zxwy6j4v,cmr98xlej0000ky044906n0kw,B12/ 13 July005,03197882836,Rawalpindi,Matric,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-06 13:18:53.083
+cmrantmiw0003jv04k7a583x3,cmrantmiw0001jv04qwietcqv,B10 / 8 July 002,03090226527,Lahore,Bachelor's,BATCH,cmqs86s2h0000jr04ir8qdft8,true,false,true,2026-07-07 13:03:28.329
+cmrbukyw60002lc04ic2ghnwn,cmrbukyw60000lc04xfz6cfac,B12/ 13 July006,+923442185774,Karachi,Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-08 09:00:27.943
+cmrbuwkmk0002ji04ruicgh2w,cmrbuwkmk0000ji04jr00ffvo,B12/ 13 July007,+923315632002,Chakwal,Master's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-08 09:09:29.324
+cmrd8xf440002ih04b1lhmuum,cmrd8xf440000ih04pwayn9g2,B12/ 13 July008,+92 300 111 6938,"Wazirabad, Pakistan",Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-09 08:29:49.636
+cmrdnvzv50002la04ro8nleq2,cmrdnvzv50000la043vwnrc70,M044,+923040970422,Islamabad,Bachelor's,MENTORSHIP,,false,false,true,2026-07-09 15:28:37.457
+cmre9x31h0002kz04hmti1kbi,cmre9x31g0000kz04jnn6bji9,B12/ 13 July009,+923236519469,Proa,Matric,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-10 01:45:19.781
+cmretzszs0002jr04c64dwjom,cmretzszs0000jr045g9tx82o,B12/ 13 July010,03478812588,Sargodha,Intermediate,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-10 11:07:19.048
+cmrf38dbe0002jr04jnkhgfh4,cmrf38dbe0000jr048aaxmakc,B12/ 13 July011,+923229661200,faisalabad,Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-10 15:25:55.178
+cmrfaf3qc0002jl04rpo06rqb,cmrfaf3qc0000jl04gkpe2b5g,B12/ 13 July012,+923015262370,Lahore,Intermediate,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-10 18:47:06.661
+cmrfdwjy40002l104l2bpb49v,cmrfdwjy30000l104oaf6my3m,B12/ 13 July013,+923040970422,"Khushab, Pakistan",Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-10 20:24:39.676
+cmrfnt2mu0002l8047kreanns,cmrfnt2mu0000l804lh7rwdec,M045,03152891664,"Karachi ",Intermediate,MENTORSHIP,,false,false,true,2026-07-11 01:01:53.43
+cmrg5ptpf0002ib041q5mubpl,cmrg5ptpf0000ib04x2iu0s8w,B12/ 13 July015,+923043211234,"Islamabad, Pakistan ",Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-11 09:23:14.979
+cmrgco9rb0002l404qrxmett7,cmrgco9rb0000l404rrnb905m,B12/ 13 July016,3287544533,"Lahore Pakistan ",Intermediate,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-11 12:37:59.783
+cmrge1efa0002jn04qoxg0ziz,cmrge1ef90000jn04zki5t3uh,M046,03002200497,Sargodha pakistan,Bachelor's,MENTORSHIP,,false,false,true,2026-07-11 13:16:11.974
+cmrghp9bk0002ju04mu69eptc,cmrghp9bk0000ju04d2zpbqes,M047,+923212258255,"Karachi, Pakistan ",Intermediate,MENTORSHIP,,false,false,true,2026-07-11 14:58:43.952
+cmrgqkmcm0002k004imfxv07n,cmrgqkmcl0000k004qx12hsr3,B10 / 8 July 003,03349221012,"Peshawar, Pakistan.",Intermediate,BATCH,cmqs86s2h0000jr04ir8qdft8,false,false,true,2026-07-11 19:07:04.102
+cmrh2y03y0002l104jodwz1v7,cmrh2y03x0000l10496obabvi,B12/ 13 July017,03036093906,Sahiwal pakistan,Matric,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-12 00:53:23.854
+cmrh3juty0002l504ww0q4ecz,cmrh3jutx0000l504edsh52fq,B12/ 13 July018,+923063235560,Hyderabad,Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-12 01:10:23.446
+cmrhfqpvh0002h2047gd0r61w,cmrhfqpvh0000h204ekn5lwu4,B12/ 13 July019,+923017122441,"Kamalia Pakistan ",Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-12 06:51:37.488
+cmrhfx0oo0005h204m9oj0ppk,cmrhfx0oo0003h204h4ww10yd,B12/ 13 July020,+923241978421,"Renala khurd okara ",Intermediate,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-12 06:56:32.953
+cmrhkucnz0002l5040j3nfu4b,cmrhkucnz0000l5048i0kheyc,B12/ 13 July021,+923323967133,Rahim yar khan,Master's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-12 09:14:26.591
+cmrhnsigs0002l8044a64a2zo,cmrhnsigr0000l804uhcyyyqk,B12/ 13 July022,+923014290182,Lahore,Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-12 10:36:59.644
+cmrhqe0qr0002l404u2gsgizo,cmrhqe0qr0000l404c4li2jev,B12/ 13 July023,+923318792259,"Lahore, Pakistan ",Master's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-12 11:49:42.34
+cmri0bh900002l704hfdhlplg,cmri0bh900000l704cksbrc6a,B12/ 13 July024,+923055807660,"Islamabad ",Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-12 16:27:39.924
+cmri6a85s0002ld04ba8soukm,cmri6a85s0000ld04fkznrzmx,B12/ 13 July025,03336103085,"Lahore,Pakistan",Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-12 19:14:39.184
+cmria79ig0002jo04su0i3l0w,cmria79ig0000jo04mmyxemp9,B12/ 13 July026,+923236590002,Kasur,Master's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-12 21:04:19.432
+cmrib4fh70002jx04xa6612bq,cmrib4fh70000jx04mm1ll7pj,B10 / 8 July 004,+923208883880,Lahore,Master's,BATCH,cmqs86s2h0000jr04ir8qdft8,true,false,true,2026-07-12 21:30:06.811
+cmricfhv90002l704wkg36lf5,cmricfhv90000l704n4ypvukf,BK11/ 13 July010,+923224766341,"Lahore ",Bachelor's,BATCH,cmqw8vwhi0000jp041gsg24q8,false,false,true,2026-07-12 22:06:42.741
+cmricgoew0005l704iqzqltw8,cmricgoew0003l704gbxgiyof,B12/ 13 July027,+923052222197,"Karachi, Pakistan",Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-12 22:07:37.881
+cmripyjm20002l104yiisw3su,cmripyjm20000l104tb58m3fp,B12/ 13 July028,+923120593448,Islamabad,Bachelor's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-13 04:25:26.474
+cmritc0kk0002jo04lcwlo4j9,cmritc0kj0000jo04li0v1htn,B12/ 13 July029,3368428192,"Bannu Pakistan ",Intermediate,BATCH,cmr4qaf4s0000lb04ubn1ktlo,false,false,true,2026-07-13 05:59:53.828
+cmrj03ccy0002jo04x0b65keu,cmrj03ccx0000jo04xb3rpzdn,B12/ 13 July030,03046999275,Pakistan,Master's,BATCH,cmr4qaf4s0000lb04ubn1ktlo,true,false,true,2026-07-13 09:09:06.514
+cmrka5sa70002jv04gx89xz7q,cmrka5sa70000jv04hue0x08c,M049,03354144719,Karak kpk,Intermediate,MENTORSHIP,,false,false,true,2026-07-14 06:38:42.799
+cmrkff3af0002l304i20ijq0i,cmrkff3af0000l304kyy0o0rs,M050,+923320701182,M.B.Din,Matric,MENTORSHIP,,false,false,true,2026-07-14 09:05:55.048
+cmrkgdkn10002jr04ytiln4ix,cmrkgdkn00000jr04h3mnb3ao,B10 / 16 July 005,+923138003135,"Loralai Balochistan ",Bachelor's,BATCH,cmqs86s2h0000jr04ir8qdft8,true,false,true,2026-07-14 09:32:43.837
+cmrkhteuj0002la041pwh7ly6,cmrkhteuj0000la04mgupkbmf,M051,+923183334100,Sheikhupura,PhD,MENTORSHIP,,false,false,true,2026-07-14 10:13:02.443
+cmrkit5zp0002jr043nagzs67,cmrkit5zp0000jr04agl47i28,M052,+923262020910,Karachi,Intermediate,MENTORSHIP,,false,false,true,2026-07-14 10:40:50.582
+cmrklece70002jx049m9fyqim,cmrklece70000jx04wpye8ybi,M053,03209972975,Haripur / pakistan,Bachelor's,MENTORSHIP,,false,false,true,2026-07-14 11:53:17.888
+cmrl17xaq0002i604002gksm1,cmrl17xaq0000i604okd38jrv,B13/ 16 July 001,+923374866459,Lahore,Intermediate,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-14 19:16:12.243
+cmrl468cy0002ky04y5ad0qo0,cmrl468cx0000ky044il3xw09,B13/ 16 July 002,+923184746745,Karachi,Intermediate,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-14 20:38:52.114
+cmrliju2f0002jp04yqpxnjyd,cmrliju2f0000jp04yaen6re4,M054,03255172099,"Chakwal Pakistan ",Matric,MENTORSHIP,,false,false,true,2026-07-15 03:21:21.4
+cmrlq0q020002js04vnwahqa1,cmrlq0q020000js04bg3mc71y,B13/ 16 July 003,+923421122115,"Karachi, Pakistan",Bachelor's,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-15 06:50:26.594
+cmrlwskti0002jl04tuweasao,cmrlwskti0000jl0460o9ohwx,B13/ 16 July 004,+92 3066222889,"Bahawalpur, Pakistan",Bachelor's,BATCH,cmrj4maoy0000jp04azdi1kbb,true,false,true,2026-07-15 10:00:03.942
+cmrm94lv40002l904749h87vi,cmrm94lv40000l904hc1zgrsj,B13/ 16 July 005,03201673234,Faisalabad,Bachelor's,BATCH,cmrj4maoy0000jp04azdi1kbb,true,false,true,2026-07-15 15:45:19.006
+cmrn7s7hn0002l104a72jkomk,cmrn7s7hn0000l104vpg52h2l,B13/ 16 July 006,03145760430,Attock,Master's,BATCH,cmrj4maoy0000jp04azdi1kbb,true,false,true,2026-07-16 07:55:28.619
+cmrnbv9090002jx04gp9ksdqg,cmrnbv9080000jx047litldcv,B13/ 16 July 007,03001354548,"Bahawalpur ",Intermediate,BATCH,cmrj4maoy0000jp04azdi1kbb,true,false,true,2026-07-16 09:49:49.017
+cmrnd5w6v0002jo04qvuy3c6g,cmrnd5w6v0000jo044u2ftih8,B13/ 16 July 008,+923183334100,Sheikhupura,PhD,BATCH,cmrj4maoy0000jp04azdi1kbb,true,false,true,2026-07-16 10:26:05.24
+cmrnqnv570002ig04fhdkafu8,cmrnqnv570000ig04ce5mt75f,B10 / 16 July 006,+923084265757,Muridke/pakistan,Matric,BATCH,cmqs86s2h0000jr04ir8qdft8,false,false,true,2026-07-16 16:43:58.7
+cmrnuuvj30002ju04s5jcxqm0,cmrnuuvj30000ju04i1ub8s0v,B10 / 16 July 007,03218456565,Lahore Pakistan,Bachelor's,BATCH,cmqs86s2h0000jr04ir8qdft8,false,false,true,2026-07-16 18:41:24.255
+cmro1vzj20002la04bpjxe1v5,cmro1vzj20000la04dejk5pdz,M057,03000734155,Kot addu,Intermediate,MENTORSHIP,,false,false,true,2026-07-16 21:58:13.407
+cmrovcl990002lf0497nel1wl,cmrovcl990000lf040imhw50q,B13/ 16 July 009,+923362810085,Karachi,Bachelor's,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-17 11:42:56.925
+cmrow2u6t0002ld04nfz5z6so,cmrow2u6t0000ld042o9y33pt,B13/ 16 July 010,+923211053220,Lahore,Bachelor's,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-17 12:03:21.557
+cmrowr3ks0002ib04zw20yeqs,cmrowr3ks0000ib04pc2bydzk,B13/ 16 July 011,+923485787924,Chakwal,Matric,BATCH,cmrj4maoy0000jp04azdi1kbb,true,false,true,2026-07-17 12:22:13.468
+cmrpavsj20002i3048zmblnh0,cmrpavsj20000i304s39uehrq,M058,03319317733,"Rajanpur district ",Intermediate,MENTORSHIP,,false,false,true,2026-07-17 18:57:47.054
+cmrprd9t30002l3044bsh0fwy,cmrprd9t30000l304rbo66090,M059,03368863637,Islamabad,Bachelor's,MENTORSHIP,,false,false,true,2026-07-18 02:39:16.455
+cmrps2onf0002jj04kkiif361,cmrps2onf0000jj04gfzfgdkl,B13/ 16 July 012,03350872466,Karachi,Bachelor's,BATCH,cmrj4maoy0000jp04azdi1kbb,true,false,true,2026-07-18 02:59:02.091
+cmrpy22r80002k20414kf9bdj,cmrpy22r80000k2044xdjh0fb,B13/ 16 July 013,"0321 5494324 ","Faisalabad ",Master's,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-18 05:46:31.413
+cmrq1un5k0002l704q1v9qbr9,cmrq1un5k0000l704qaelnkm1,M060,+923206845397,"Wazirabad ",Intermediate,MENTORSHIP,,false,false,true,2026-07-18 07:32:43.064
+cmrq8m94y0002js04eh1vryhe,cmrq8m94y0000js04f8p2ibiv,M061,923104191920,"Faisalabad ",Intermediate,MENTORSHIP,,false,false,true,2026-07-18 10:42:08.962
+cmrq9gv2y0008js0430sy9iii,cmrq9gv2y0006js047eecv81r,BK11/ 20 July012,03346800335,Haveli lakha city dist okara,Matric,BATCH,cmqw8vwhi0000jp041gsg24q8,false,false,true,2026-07-18 11:05:57.082
+cmrqbkh2v0002js04tygmmmua,cmrqbkh2v0000js04r5k6v17l,B13/ 20 July 015,03326965968,Quetta,Master's,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-18 12:04:44.791
+cmrqbpee70005js04qmkh6apj,cmrqbpee70003js04g09qg24h,B13/ 20 July 016,03244305475,Lahore Pakistan,Bachelor's,BATCH,cmrj4maoy0000jp04azdi1kbb,true,false,true,2026-07-18 12:08:34.592
+cmrqwym800002kz041iq0xdkg,cmrqwym800000kz04n3l8yetu,M062,+971553254484,lahor,Intermediate,MENTORSHIP,,false,false,true,2026-07-18 22:03:36.576
+cmrr4e8t40002k304d1d4bo4z,cmrr4e8t30000k304ce2w9ywq,M063,+923051937540,Badin,Intermediate,MENTORSHIP,,false,false,true,2026-07-19 01:31:43
+cmrr8owe60002l404thbj9z4i,cmrr8owe60000l404fdtaodjd,B13/ 20 July 017,+923064963303,"Burewala/Pakistan ",Master's,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-19 03:31:58.59
+cmrreza220002jo04vcqt5gai,cmrreza210000jo046v2pno41,B13/ 20 July 018,03095040377,"Islamabad ",Matric,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-19 06:28:00.554
+cmrrmqk7m0002l204n1q26t2f,cmrrmqk7m0000l204a56s8y42,M064,03180266965,Karachi,Intermediate,MENTORSHIP,,false,false,true,2026-07-19 10:05:10.738
+cmrrn3gno0005l204mcowsp93,cmrrn3gno0003l204495fztm6,M065,03194855342,Karachi,Intermediate,MENTORSHIP,,false,false,true,2026-07-19 10:15:12.66
+cmrrtvvua0002l404tkb52apd,cmrrtvvua0000l404x6s8ck1z,M066,03426368669,"Pakistan .. Ali pur chattha ",Intermediate,MENTORSHIP,,false,false,true,2026-07-19 13:25:16.402
+cmrs2f0qk0002jv0497kcxn7u,cmrs2f0qk0000jv04r42si4tx,B13/ 20 July 019,03212366101,"کراچی ",Matric,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-19 17:24:06.14
+cmrs7mej80002jl040uczgkzn,cmrs7mej80000jl04224b9fqd,B13/ 20 July 020,+923234191455,"Lahore, Pakistan",Master's,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-19 19:49:48.692
+cmrsv2x8e0002ib04lie4r2au,cmrsv2x8e0000ib04y9mr24mq,BK11/ 20 July013,+923120214111,"Karachi ",Master's,BATCH,cmqw8vwhi0000jp041gsg24q8,false,false,true,2026-07-20 06:46:30.59
+cmrsw1yse0004la04uweyz875,cmrsw1yse0002la04gnn1232g,B13/ 20 July 021,+923459379677,Toba Tek Singh,Master's,BATCH,cmrj4maoy0000jp04azdi1kbb,true,false,true,2026-07-20 07:13:45.566
+cmrtfmtp80002i904ohjczx63,cmrtfmtp80000i904t27x3efi,B13/ 20 July 022,03009420230,"Lahore, Pakistan",Bachelor's,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-20 16:21:51.453
+cmrtgyu450004jo046ydzj1bu,cmrtgyu450002jo04mtkeo6ti,B13/ 20 July 023,03235904944,Gujrat,Bachelor's,BATCH,cmrj4maoy0000jp04azdi1kbb,true,false,true,2026-07-20 16:59:11.477
+cmrtiarft0002jr0421nl252o,cmrtiarfs0000jr04nh7iu3dx,B13/ 20 July 024,+92317100913,"Multan ",Matric,BATCH,cmrj4maoy0000jp04azdi1kbb,true,false,true,2026-07-20 17:36:27.497
+cmruds4dn0002jo040jhjzluj,cmruds4dn0000jo04viij0qmg,B13/ 20 July 025,+923160911023,"Timergara ",Bachelor's,BATCH,cmrj4maoy0000jp04azdi1kbb,true,false,true,2026-07-21 08:17:45.515
+cmrujd9r40002l704h4eug5m8,cmrujd9r40000l704w9cgm38f,B13/ 20 July 026,+923052752608,Multan,Bachelor's,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-21 10:54:10.337
+cmrvc8d3w0002jq04j4qfiriw,cmrvc8d3w0000jq04095b6w4x,B13/ 20 July 027,+4915753551914,Dresden,Master's,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-22 00:22:10.268
+cmrvupnd40002jm047v8z4vcq,cmrvupnd40000jm04qafmfmif,M068,03707965155,"Lahore, Pakistan",Intermediate,MENTORSHIP,,false,false,true,2026-07-22 08:59:29.8
+cmrvy10rz0002l60488zck9gl,cmrvy10ry0000l6047ssyvt02,M069,03053099993,Lahore,Intermediate,MENTORSHIP,,false,false,true,2026-07-22 10:32:19.247
+cmrw01sef0005l604eem0yvbi,cmrw01sef0003l604drqwvoux,B13/ 20 July 028,03172113034,Karachi,Bachelor's,BATCH,cmrj4maoy0000jp04azdi1kbb,false,false,true,2026-07-22 11:28:54.279
+cmrx36jey0002jl04mxv6enqj,cmrx36jey0000jl04ggmsy3r1,B14 / 27 July 001,+923115191502,"Islamabad, Pakistan",Bachelor's,BATCH,,false,false,true,2026-07-23 05:44:20.938
+cmrx4rm8h0002l104px7wy35j,cmrx4rm8h0000l104a364zuk2,M070,03441513255,"Faisalabad ",Matric,MENTORSHIP,,false,false,true,2026-07-23 06:28:43.985
+cmrx4wup60002jj0466h55mzq,cmrx4wup60000jj04k0cnvejv,M071,03441513255,"Faisalabad ",Matric,MENTORSHIP,,false,false,true,2026-07-23 06:32:48.235
+cmrx6sxcw0002jr040ei8v2cv,cmrx6sxcw0000jr0477du9ttu,M072,00923138464584,Gujrat pak,Intermediate,MENTORSHIP,,false,false,true,2026-07-23 07:25:44.288
+cmrx8zmis0005jr043hr6y3ua,cmrx8zmis0003jr04tnz1ii1d,B14 / 27 July 002,+923118881214,Multan,Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-23 08:26:56.069
+cmrx99q1k0008jr04ky4wp1jr,cmrx99q1k0006jr04yjt7fgw2,M073,923212465800,"Karachi ",Master's,MENTORSHIP,,false,false,true,2026-07-23 08:34:47.193
+cmrxf3fwx0003l1042ybiayjm,cmrxf3fwx0001l104sdvrvoa9,B14 / 27 July 003,+923206742041,Multan,Intermediate,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-23 11:17:51.826
+cmrxgfu3i0002js04jy0r4ad4,cmrxgfu3i0000js04o0r8e0ef,M074,03394009530,"Islamabad, Pakistan",Bachelor's,MENTORSHIP,,false,false,true,2026-07-23 11:55:29.694
+cmrxinfr30002jj04rqcj7bln,cmrxinfr30000jj04xr7oj3nu,M075,"0300 5334615 ","Islamabad pakistan ",Bachelor's,MENTORSHIP,,false,false,true,2026-07-23 12:57:23.583
+cmrxkmsqo0002jp04tixt3w3p,cmrxkmsqo0000jp04yo2ijb83,B14 / 27 July 004,+923343286277,"Karachi, Pakistan ",Intermediate,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-23 13:52:52.992
+cmrxr8fg70002ih044kdrhp0g,cmrxr8fg60000ih049tdgbztg,B14 / 27 July 005,+923195715345,Islamabad,Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-23 16:57:39.895
+cmry243ou0002k00470mfvsxu,cmry243ot0000k004h44lhckd,M076,+923366317729,Gulshan Iqbal,Intermediate,MENTORSHIP,,false,false,true,2026-07-23 22:02:13.806
+cmryj1y7v0002l104xreypub2,cmryj1y7v0000l10471o6ycyn,B14 / 27 July 006,+923007447055,Gujranwala,Master's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-24 05:56:26.875
+cmrykw5lv0002jr04ju7w6e1r,cmrykw5lv0000jr04z8p5nkjt,B14 / 27 July 007,03234029245,"Lahore, Pakistan ",Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-24 06:47:55.747
+cmryn4b5b0002i50463bw6pik,cmryn4b5b0000i504p2g3ec9v,B14 / 27 July 008,+923010461280,Arifwala,Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-24 07:50:15.407
+cmryo1ftn0006i504xdtdwxx3,cmryo1ftn0004i504astwmk45,B14 / 27 July 009,017676496738,Koblenz / Germany,Other,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-24 08:16:01.115
+cmrys2yub0002jo04vp18nuw8,cmrys2yub0000jo040roth6c6,M077,"03334635918 ",Islamabad,Matric,MENTORSHIP,,false,false,true,2026-07-24 10:09:10.883
+cmrysabr80005jo044i56i71c,cmrysabr80003jo04ulbvlcct,B14 / 27 July 010,03166937165,Multan,Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-24 10:14:54.213
+cmrytukw90002lb04ergtg9tq,cmrytukw90000lb04qwovuftt,B14 / 27 July 011,+923323079441,Karachi,Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-24 10:58:38.793
+cmrz5s6300008jm041alu90np,cmrz5s6300006jm04v6xhbhjy,M078,+923196820517,Faisalabad,Intermediate,MENTORSHIP,,false,false,true,2026-07-24 16:32:41.677
+cmrz60qqr0002l1048bswl86i,cmrz60qqr0000l104rs5ha0ly,M079,+923196820517,Faisalabad,Intermediate,MENTORSHIP,,false,false,true,2026-07-24 16:39:21.699
+cmrz6wpev0002jp0484jpnzvl,cmrz6wpev0000jp04zr3tlzfz,M080,+923451037594,KOT MOMIN DISTRICT SARGODHA,Master's,MENTORSHIP,,false,false,true,2026-07-24 17:04:12.968
+cmrz7romd0005jp04olnt8usy,cmrz7romd0003jp04tvwb56kd,B14 / 27 July 012,+923275588094,Battagram,Other,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-24 17:28:18.278
+cmrz9zfrg0002la04pu69bvm8,cmrz9zfrg0000la0406d8zi6p,M081,+923181354841,Shikarpur,Bachelor's,MENTORSHIP,,false,false,true,2026-07-24 18:30:19.277
+cmrzc8oxb0002l504yssk4qf5,cmrzc8oxb0000l504w53b0asf,B14 / 27 July 013,0301 7663408,Garhi ikhtiar khan tehasil khanpur dist Rahim Yar khan,Intermediate,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-24 19:33:30.287
+cmrzglxzw0002jo049tidzc31,cmrzglxzw0000jo043udxledp,B14 / 27 July 014,03217777631,"Lahore, Pakistan",Master's,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-24 21:35:47.037
+cmrzh9vz00002l404k6coo5vn,cmrzh9vz00000l404d5x3jua4,B14 / 27 July 015,+447310406094,Longsite,Master's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-24 21:54:24.157
+cmrzw3c5h0002l204vs6e3gvq,cmrzw3c5h0000l204gmb1w3f4,B14 / 27 July 016,+923261312417,Lahore,Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-25 04:49:12.773
+cms0a762w0002l704o1pdam2q,cms0a762w0000l7041pkni3b8,B14 / 1 Aug017,+923168782011,Karachi West,Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-25 11:24:06.152
+cms0dxrhv0002l204454l77jh,cms0dxrhu0000l204kpb58k23,B15/ 1 Aug001,03085525077,"DG Khan, Pakistan",Matric,BATCH,cms05m2qh0000l5045gmughkm,false,false,true,2026-07-25 13:08:45.811
+cms0pjd8n0002l904zkacl8g3,cms0pjd8n0000l904treqcgb2,B14 / 1 Aug018,03242271671,"Sheikupra ",Other,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-25 18:33:29.543
+cms1h3z0m0002kv04tlf1cfmd,cms1h3z0m0000kv04rvaiz2qd,B15/ 1 Aug002,+923007446235,BAHAWALPUR,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-07-26 07:25:20.518
+cms2o0y640002l904aa77vn8d,cms2o0y640000l904xpc8nbii,B14 / 1 Aug019,03100095517,Mardan,Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-27 03:26:42.941
+cms2xytg20002js046f90286k,cms2xytg20000js04nyk2lkkw,B15/ 1 Aug003,+923025371605,Kasur,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-07-27 08:04:59.667
+cms2xz7h50005js04y6f6yjlt,cms2xz7h40003js04mxo9p7sn,B14 / 1 Aug020,3314577478,Lahore,Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-27 08:05:17.849
+cms3d932x0002la04yiu1qt9o,cms3d932w0000la04xgvuaj6u,M084,03000959524,Faisalabad/Pakistan,Bachelor's,MENTORSHIP,,false,false,true,2026-07-27 15:12:52.953
+cms3li9i30002l704uwejtvgo,cms3li9i30000l704ncd63brr,P2 / 3 Aug 001,0313721811,"Lahore ",Intermediate,BATCH,cms05rk2r0000la04eucpumzy,false,false,true,2026-07-27 19:03:58.107
+cms3wr2z00002ld04542exudo,cms3wr2z00000ld044jvxtn7v,B14 / 1 Aug021,923458514583,Islamabad,Master's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-28 00:18:45.325
+cms4me1pz0002lc04htd9js2c,cms4me1pz0000lc043ku9qt76,B14 / 1 Aug022,+923082011777,Lahore,Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-28 12:16:27.191
+cms4vf3r70002lj04280ut7we,cms4vf3r70000lj04qz32oozq,B14 / 1 Aug023,+923061937244,"Gojra, Pakistan",Master's,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-28 16:29:13.027
+cms52jyuk0002jr04vbzt8w6z,cms52jyuk0000jr04hh9kva91,M086,3463201553,Karachi pakistan,Other,MENTORSHIP,,false,false,true,2026-07-28 19:48:57.26
+cms52wlgw0002jv04i8c3h30b,cms52wlgw0000jv04dc5nxjfm,B15/ 1 Aug004,03192299314,sukkur,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,false,false,true,2026-07-28 19:58:46.449
+cms5qzsf50002l604hwybcamz,cms5qzsf50000l604kcs84sid,B14 / 1 Aug024,+923090744678,"Gujranwala , Pakistan ",Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-29 07:13:06.21
+cms5z31nl0002ji05bwazqx2x,cms5z31nl0000ji05u4lzgv3e,B15/ 1 Aug005,+923244054157,Lahore,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,false,false,true,2026-07-29 10:59:35.074
+cms6376hm0002la04ztli6huv,cms6376hm0000la04uh8byiyn,B15/ 1 Aug006,+923451621605,Rahim Yar Khan,Intermediate,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-07-29 12:54:46.427
+cms66dph30004kw04m82jlemp,cms66dph30002kw040xq5mlet,B15/ 1 Aug007,+92 334 3530187,Karachi,Intermediate,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-07-29 14:23:49.816
+cms67n0g60002jr04wrjcopn4,cms67n0g60000jr0436uxykyw,B15/ 1 Aug008,+923102065930,huzaif97@gmail.com,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-07-29 14:59:03.558
+cms6azlea0002jl04qlmypwax,cms6azlea0000jl04043vhels,B14 / 1 Aug026,03368000178,"Nowshera/. Pakistan ",Intermediate,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-29 16:32:49.426
+cms6b3icq0004l904bzn7xl4s,cms6b3icq0002l9042pqd8bl1,B15/ 1 Aug009,+923472905664,"Karachi ",Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,false,false,true,2026-07-29 16:35:51.895
+cms6e420j0002jt04ry8p6jyz,cms6e420j0000jt04f9nee3uo,B14 / 1 Aug027,+923352066974,"KARACHI, PAKISTAN ",Other,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-29 18:00:16.435
+cms6lnt2h0002jp043vtb0v8h,cms6lnt2h0000jp045f3fzfkx,B15/ 1 Aug010,+923218980451,Karachi,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-07-29 21:31:35.274
+cms6ta90s0002l5042gu2t8y2,cms6ta90s0000l504bdbia5sx,M087,+92415121233,Sargodha,Bachelor's,MENTORSHIP,,false,false,true,2026-07-30 01:04:59.693
+cms7dv29f0002jr0458wttllt,cms7dv29f0000jr049p5a7e6a,B15/ 1 Aug012,+971569363155,"Dubai, UAE",Master's,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-07-30 10:41:03.028
+cms7ffs1z0002js04na09mlx2,cms7ffs1z0000js041r3x87l9,M088,+923071640899,Punjab,Intermediate,MENTORSHIP,,false,false,true,2026-07-30 11:25:09.191
+cms7ih2m40002jn04kym6dgzq,cms7ih2m40000jn04ysb5t24k,B14 / 1 Aug029,+4915753551914,Dresden,Master's,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-30 12:50:08.381
+cms7zc72f0002ju045ibrro97,cms7zc72e0000ju04dfewmw6x,B14 / 1 Aug030,03143444567,"Sargodha Pakistan ",Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-30 20:42:14.343
+cms8i7brd0002l104ud5wmh4l,cms8i7brd0000l1045scqqnfi,P2 / 3 Aug 003,+923069760700,"Lahore Pakistan ",Intermediate,BATCH,cms05rk2r0000la04eucpumzy,false,false,true,2026-07-31 05:30:19.849
+cms8kw8ho0002la04wj0n9vng,cms8kw8ho0000la044mr8twzy,B14 / 1 Aug031,+923218499095,Lahore/Pakistan,Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-31 06:45:41.244
+cms8r3gug0002jr0418htq7ug,cms8r3gug0000jr04f3tdz1fn,B15/ 1 Aug016,+923354144719,karak,Intermediate,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-07-31 09:39:16.36
+cms8thox20002ld04tqulofye,cms8thox20000ld04rc0abmnm,M089,03418215578,"Jhang ",Bachelor's,MENTORSHIP,,false,false,true,2026-07-31 10:46:19.238
+cms8ty0t30005ld045zv91s1t,cms8ty0t30003ld0466sviyis,B15/ 1 Aug017,03418215578,"Jhang Pakistan ",Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-07-31 10:59:01.143
+cms8ya9d00002l704fw9hx2tk,cms8ya9d00000l704n1tfxywm,P2 / 3 Aug 004,+923020469276,lahore,Matric,BATCH,cms05rk2r0000la04eucpumzy,true,false,true,2026-07-31 13:00:30.564
+cms8yu3ce0005l704ieo8of1m,cms8yu3ce0003l704uxn3gvjx,B15/ 1 Aug018,03099695630,Faisalabad,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,false,false,true,2026-07-31 13:15:55.886
+cms92aewu0004k3046cl5lkwz,cms92aewu0002k3040p5p0385,B14 / 1 Aug032,+923324506007,"Lahore, Pakistan",Master's,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-07-31 14:52:36.222
+cms97wa6v0002lf04bhszkv26,cms97wa6v0000lf04q39ngfn9,B15/ 1 Aug019,+353899405358,Dublin,Intermediate,BATCH,cms05m2qh0000l5045gmughkm,false,false,true,2026-07-31 17:29:34.615
+cms9bf7dn0002lf04k32zw8x6,cms9bf7dn0000lf04hdy5pain,B14 / 1 Aug033,03093597934,"Mirpurkhas sindh ",Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-07-31 19:08:16.283
+cmsa51c7h0002l704gp94x2j0,cmsa51c7h0000l7043aralesn,B15/ 1 Aug020,+923030249973,Haroonabad,Intermediate,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-08-01 08:57:17.837
+cmsa8j25c0002id04p3jmavr4,cmsa8j25c0000id04xtrr19bx,B15/ 1 Aug021,"+61404118338 ",Perth Australia,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-08-01 10:35:03.456
+cmsaav50a0002jt04ati5u2yi,cmsaav50a0000jt04wvefdjrh,M090,12674959468,Edmond,PhD,MENTORSHIP,,false,false,true,2026-08-01 11:40:26.266
+cmsag3gfi0002lb0495m9tmq3,cmsag3gfi0000lb04i5xkzu6q,B15/ 1 Aug022,0423608034,Perth,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,false,false,true,2026-08-01 14:06:52.399
+cmsandl0n0002l704kzjl56se,cmsandl0n0000l704gddqhh5b,B14 / 1 Aug034,03715843953,"Karachi Pakistan ",Intermediate,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-08-01 17:30:42.215
+cmsanlg370002l104nnexfdvr,cmsanlg370000l104jk1y818l,B14 / 1 Aug035,03013374100,"Karachi, Pakistan",Matric,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-08-01 17:36:49.075
+cmsbdvwqo0002ju047hy12er8,cmsbdvwqo0000ju04to4kqz6u,B14 / 1 Aug036,03182627570,"Karachi, Pakistan",Intermediate,BATCH,cmrx1uju40000l90434dr22kr,false,false,true,2026-08-02 05:52:47.232
+cmsblo9380002la046subwuh3,cmsblo9380000la04sxsi3ks8,M091,03235156007,ABBOTTABAD PAKISTAN,Master's,MENTORSHIP,,false,false,true,2026-08-02 09:30:46.917
+cmsboqtq50002l804ytkww5lp,cmsboqtq50000l804lwc5emjq,B15/ 1 Aug025,03185588280,"Taxila Rawalpindi ",Matric,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-08-02 10:56:45.59
+cmsc2ivjd0002jy04axlg0093,cmsc2ivjd0000jy04g3mgvhid,B15/ 1 Aug026,+923095902498,"Gujranwala pakistan ",Intermediate,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-08-02 17:22:29.546
+cmsd07s3b0002jx0492kas300,cmsd07s3b0000jx0416rywuu0,B15/ 1 Aug027,+923204552222,Multan,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-08-03 09:05:38.808
+cmsd0da4p0002k00453ydgnsg,cmsd0da4o0000k004lyu59sbg,B15/ 1 Aug028,03390000341,Karachi,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-08-03 09:09:55.465
+cmsd0t5z00002jo04vli9hdsd,cmsd0t5z00000jo04otvo1bco,B14 / 1 Aug037,+923355327792,"Karachi, Pakistan ",Bachelor's,BATCH,cmrx1uju40000l90434dr22kr,true,false,true,2026-08-03 09:22:16.572
+cmsda67kh0002js04hvlm1wpb,cmsda67kh0000js0494i5h2h7,B15/ 1 Aug030,03218726278,Lahore,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-08-03 13:44:21.714
+cmsdanala0002ii04odbbazbk,cmsdanala0000ii04cf3om7y2,B15/ 1 Aug031,+923158058462,Multan,Matric,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-08-03 13:57:38.782
+cmsdbx9v40007l804g94ikzeh,cmsdbx9v40005l804pq89x1sh,B15/ 1 Aug032,+923232987221,Lahore,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-08-03 14:33:23.195
+cmsdurt4f0002l904q0gjegu4,cmsdurt4f0000l9040oy0ugxa,M093,03172342601,"Karachi, Pakistan",Intermediate,MENTORSHIP,,false,false,true,2026-08-03 23:21:01.743
+cmsenpt5z0002la04vgnmoinr,cmsenpt5z0000la049sout1ym,B15/ 1 Aug033,+923258059090,Karachi Pakistan,Bachelor's,BATCH,cms05m2qh0000l5045gmughkm,false,false,true,2026-08-04 12:51:17.351
+cmsf5cjlj0002jx045wb8ieq8,cmsf5cjli0000jx04wx89b4ik,P2 / 3 Aug 007,+923144762533,Lahore,Bachelor's,BATCH,cms05rk2r0000la04eucpumzy,false,false,true,2026-08-04 21:04:51.511
+cmsfqwyb00002l204lahvfuaq,cmsfqwyb00000l204umvotov5,B15/ 1 Aug035,+923039600094,Faisalabad,Master's,BATCH,cms05m2qh0000l5045gmughkm,false,false,true,2026-08-05 07:08:35.629
+cmsfw0dwe0002l804xfewfk0d,cmsfw0dwe0000l804qg08nqvu,B15/ 1 Aug036,03412500648,Gujranwala,Intermediate,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-08-05 09:31:13.886
+cmsfyutmq0002k004ig7yylif,cmsfyutmq0000k004rnyaqnz6,M094,+447766653154,"United Kingdom ",Bachelor's,MENTORSHIP,,false,false,true,2026-08-05 10:50:53.186
+cmsg1fq3n0002l704e0a90nut,cmsg1fq3n0000l7047ksrkbtw,B15/ 1 Aug037,+923201257850,Karachi,Intermediate,BATCH,cms05m2qh0000l5045gmughkm,true,false,true,2026-08-05 12:03:07.619
+cmsg1j6ys0002jp04lmb4zlpi,cmsg1j6ys0000jp04cpebvp3k,B16 / 15Aug 001,+923002099116,Karachi,Other,BATCH,cmsfw0h6g0003l804o6nzmp6m,true,false,true,2026-08-05 12:05:49.444
+cmsgfjv640002l104emd1w3cw,cmsgfjv640000l104ipeon2vn,M095,03041383369,Sialkot,Bachelor's,MENTORSHIP,,false,false,true,2026-08-05 18:38:15.437
+cmsgxfe8t0002k004bzohaddc,cmsgxfe8t0000k0042cikmyyk,B16 / 15Aug 002,+923072061716,Karachi,Master's,BATCH,cmsfw0h6g0003l804o6nzmp6m,true,false,true,2026-08-06 02:58:39.965
+cmsivwp150002ky04r8yy8dzk,cmsivwp150000ky04i1mpobu2,B16 / 15Aug 003,03247581003,"Pakpattan / pakistan ",Master's,BATCH,cmsfw0h6g0003l804o6nzmp6m,false,false,true,2026-08-07 11:51:40.217
+cmsj87cxo0002lg045w4p6452,cmsj87cxo0000lg048emtsefw,M096,+923105303709,"Islamabad, Pakistan",Bachelor's,MENTORSHIP,,false,false,true,2026-08-07 17:35:53.149
+cmsk4073a0002jo04u698qpfr,cmsk4073a0000jo04kpmp2qpx,M097,+971502307003,Dubai,Bachelor's,MENTORSHIP,,false,false,true,2026-08-08 08:26:06.694
+cmsk8t96u0002l7046v1b7e8j,cmsk8t96t0000l704fzc6jqtr,B16 / 15Aug 005,03336799155,Islamabad,Other,BATCH,cmsfw0h6g0003l804o6nzmp6m,true,false,true,2026-08-08 10:40:40.902
+cmski5r410002ld04wcqnotsa,cmski5r410000ld049sh4b93e,B16 / 15Aug 006,+923143452173,Karachi,Bachelor's,BATCH,cmsfw0h6g0003l804o6nzmp6m,true,false,true,2026-08-08 15:02:20.546
+cmskjyee20002la04kz4xkfn1,cmskjyee20000la041eveuaq2,B16 / 15Aug 007,923120027620,Karachi Pakistan,Bachelor's,BATCH,cmsfw0h6g0003l804o6nzmp6m,false,false,true,2026-08-08 15:52:36.699
+cmslkt4uf0002l7040ng1geap,cmslkt4uf0000l704zsznrt3e,B16 / 15Aug 008,+923227044224,Okara,Intermediate,BATCH,,false,false,true,2026-08-09 09:04:16.839
+cmslmdk3u0002jm04dmbmgogi,cmslmdk3u0000jm04p2b59db8,P02 / 10 Aug 008,+923427108841,Farooqabad,Bachelor's,BATCH,cms05rk2r0000la04eucpumzy,false,false,true,2026-08-09 09:48:09.354
+cmsloxpbe0002la04cfp0lez1,cmsloxpbe0000la048rb87tz7,M098,03700913342,"Karachi Pakistan ",Matric,MENTORSHIP,,false,false,true,2026-08-09 10:59:48.459
+cmslytdof0002jt043i52itzm,cmslytdof0000jt04z9k9d3j1,B16 / 15Aug 009,03102612175,"Karachi ",Intermediate,BATCH,cmsfw0h6g0003l804o6nzmp6m,false,false,true,2026-08-09 15:36:22.911
+cmsm6bcyc0002ld04c5rnrjw7,cmsm6bcyc0000ld04fr9oaox0,B16 / 15Aug 010,966558508978,"Jeddah ",Matric,BATCH,cmsfw0h6g0003l804o6nzmp6m,true,false,true,2026-08-09 19:06:19.093
+cmsm7uq8d0002jl04z4vjg9e6,cmsm7uq8d0000jl04gu4538ux,M099,923174858952,"Pakistan Sargodha ",Other,MENTORSHIP,,false,false,true,2026-08-09 19:49:22.381
+cmsmbiegw0005ju04ukic40kl,cmsmbiegw0003ju04n7c3tmjh,B16 / 15Aug 011,03219290669,Karachi pakistan,Intermediate,BATCH,cmsfw0h6g0003l804o6nzmp6m,true,false,true,2026-08-09 21:31:45.728
+cmsmd47980002l2042t3naitl,cmsmd47980000l20466wgn6e6,B16 / 15Aug 012,03412715515,"Karachi Pakistan ",Intermediate,BATCH,cmsfw0h6g0003l804o6nzmp6m,false,false,true,2026-08-09 22:16:42.428
+cmsmgqnc50002l6049d0hew24,cmsmgqnc50000l604nsqs02ep,M101,+923000365539,"Karachi, pakistan",Intermediate,MENTORSHIP,,false,false,true,2026-08-09 23:58:08.549
+cmsn23bde0002l5040nhq6q39,cmsn23bde0000l504uiuxvvmm,B16 / 15Aug 013,+971564665882,UAE,Other,BATCH,cmsfw0h6g0003l804o6nzmp6m,false,false,true,2026-08-10 09:55:51.506
+cmsnc338d0004js04c8mjyni5,cmsnc338d0002js04s0hq3x5z,B16 / 15Aug 014,+923029211187,Lahore,Bachelor's,BATCH,cmsfw0h6g0003l804o6nzmp6m,false,false,true,2026-08-10 14:35:37.117
+cmsov00r70002ld042hbesdr4,cmsov00r70000ld046isd1dmi,B16 / 15Aug 015,03279428942,"Sheikhipura Pakistan ",Bachelor's,BATCH,cmsfw0h6g0003l804o6nzmp6m,false,false,true,2026-08-11 16:12:52.82
+cmsoz10nu0002ky04benm3dm9,cmsoz10nu0000ky047vi6yjgp,P02 / 10 Aug 009,03187329705,Gujranwala/pakistan,Bachelor's,BATCH,cms05rk2r0000la04eucpumzy,true,false,true,2026-08-11 18:05:37.819
+cmspx0lj60002l204mnhjilg2,cmspx0lj50000l204tsr3l5g7,B16 / 15Aug 016,03478016181,"Lahore pakistan ",Other,BATCH,cmsfw0h6g0003l804o6nzmp6m,true,false,true,2026-08-12 09:57:05.154
+cmspzfa5f0002ky04ltsbweka,cmspzfa5f0000ky04u0uy2mrv,M104,03024667484,Lahore,Intermediate,MENTORSHIP,,false,false,true,2026-08-12 11:04:29.476
+cmsq4q9d80003ky04xxekdddb,cmsq4q9d70001ky04h4bla2ta,M105,+923025510551,Peshawar,Matric,MENTORSHIP,,false,false,true,2026-08-12 13:32:59.756
+cmsq50v3s0006ky04efflv8le,cmsq50v3s0004ky04l4oo6ung,M106,+923025510551,Peshawar,Matric,MENTORSHIP,,false,false,true,2026-08-12 13:41:14.488
+cmsq8fj620002l1043h883dhd,cmsq8fj610000l104ncejirak,B16 / 15Aug 017,+923052913861,Multan,Bachelor's,BATCH,cmsfw0h6g0003l804o6nzmp6m,false,false,true,2026-08-12 15:16:37.706
+cmsq8guly0005l1049ifr4uhd,cmsq8guly0003l1048c6678f8,B16 / 15Aug 018,03146009893,"Sargodha ",Intermediate,BATCH,cmsfw0h6g0003l804o6nzmp6m,false,false,true,2026-08-12 15:17:39.19
+cmsqcsqyt0002ii04ztvzpprg,cmsqcsqyt0000ii0447c05ewt,M107,03041383369,Sialkot,Bachelor's,MENTORSHIP,,false,false,true,2026-08-12 17:18:52.805
+cmsqgjq3y0002jm04cejvrbg0,cmsqgjq3y0000jm04426om9cu,B16 / 15Aug 019,+923070879541,"Faisalabad ",Intermediate,BATCH,cmsfw0h6g0003l804o6nzmp6m,false,false,false,2026-08-12 19:03:50.255
