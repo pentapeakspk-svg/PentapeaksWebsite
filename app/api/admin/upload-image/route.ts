@@ -1,12 +1,21 @@
 import { NextRequest, NextResponse } from "next/server";
 import { verifyAdminSession } from "@/lib/api-auth";
-import { createClient } from "@supabase/supabase-js";
+import fs from "fs/promises";
+import path from "path";
+import { existsSync } from "fs";
 
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || "https://placeholder.supabase.co";
-const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "placeholder_key";
-const supabase = createClient(supabaseUrl, supabaseKey);
+// Using a persistent directory in production to survive Next.js standalone rebuilds
+const isProduction = process.env.NODE_ENV === "production";
+const basePath = isProduction ? "/var/www/pentapeaks/public" : path.join(process.cwd(), "public");
+const UPLOAD_DIR = path.join(basePath, "uploads", "blog-images");
+const PUBLIC_BASE_URL = "/uploads/blog-images";
 
-const BUCKET_NAME = "blog-images";
+// Helper to ensure directory exists
+async function ensureDir() {
+  if (!existsSync(UPLOAD_DIR)) {
+    await fs.mkdir(UPLOAD_DIR, { recursive: true });
+  }
+}
 
 export async function POST(req: NextRequest) {
   try {
@@ -33,22 +42,18 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "Only WebP files are allowed" }, { status: 400 });
     }
 
+    await ensureDir();
+
     const bytes = await file.arrayBuffer();
     const buffer = Buffer.from(bytes);
     
     const safeName = file.name.replace(/[^a-zA-Z0-9.\-_]/g, "_");
     const uniqueName = `blog-${Date.now()}-${safeName}`;
+    const filePath = path.join(UPLOAD_DIR, uniqueName);
     
-    const { data, error } = await supabase.storage.from(BUCKET_NAME).upload(uniqueName, buffer, {
-      contentType: file.type,
-      upsert: false
-    });
+    await fs.writeFile(filePath, buffer);
 
-    if (error) {
-      throw new Error(`Supabase upload failed: ${error.message}`);
-    }
-
-    const fileUrl = `${supabaseUrl}/storage/v1/object/public/${BUCKET_NAME}/${uniqueName}`;
+    const fileUrl = `${PUBLIC_BASE_URL}/${uniqueName}`;
 
     return NextResponse.json({ success: true, url: fileUrl });
   } catch (error: any) {

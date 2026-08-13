@@ -1,39 +1,47 @@
 import { NextRequest, NextResponse } from "next/server";
 import { verifyAdminSession } from "@/lib/api-auth";
-import { createClient } from "@supabase/supabase-js";
+import fs from "fs/promises";
+import path from "path";
+import { existsSync } from "fs";
 
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || "https://placeholder.supabase.co";
-const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "placeholder_key";
-const supabase = createClient(supabaseUrl, supabaseKey);
+// Using a persistent directory in production to survive Next.js standalone rebuilds
+const isProduction = process.env.NODE_ENV === "production";
+const basePath = isProduction ? "/var/www/pentapeaks/public" : path.join(process.cwd(), "public");
+const UPLOAD_DIR = path.join(basePath, "uploads", "gallery-videos");
+const PUBLIC_BASE_URL = "/uploads/gallery-videos";
 
-const BUCKET_NAME = "gallery-videos";
+// Helper to ensure directory exists
+async function ensureDir() {
+  if (!existsSync(UPLOAD_DIR)) {
+    await fs.mkdir(UPLOAD_DIR, { recursive: true });
+  }
+}
 
 export async function GET(req: NextRequest) {
   try {
-    // Both admin and public might need this, but for upload/delete it's admin only
-    // Let's make GET public so the frontend can fetch it easily without auth overhead
-    
     const { searchParams } = new URL(req.url);
-    const prefix = searchParams.get("prefix"); // "home-" or "mentorship-"
+    const prefix = searchParams.get("prefix"); 
 
-    const { data, error } = await supabase.storage.from(BUCKET_NAME).list("", {
-      limit: 100,
-      offset: 0,
-      sortBy: { column: "created_at", order: "desc" },
-    });
-
-    if (error) {
-      console.error("Supabase list error:", error);
-      return NextResponse.json({ files: [] }); 
-    }
-
-    let files = data.filter(f => f.name.match(/\.(mp4|mov)$/i));
+    await ensureDir();
+    let files = await fs.readdir(UPLOAD_DIR);
+    
+    // Filter for video files
+    files = files.filter(f => f.match(/\.(mp4|mov)$/i));
     
     if (prefix) {
-      files = files.filter(f => f.name.toLowerCase().startsWith(prefix.toLowerCase()));
+      files = files.filter(f => f.toLowerCase().startsWith(prefix.toLowerCase()));
     }
 
-    const fileUrls = files.map(f => `${supabaseUrl}/storage/v1/object/public/${BUCKET_NAME}/${f.name}`);
+    // Sort by creation time (descending)
+    const fileStats = await Promise.all(
+      files.map(async (file) => {
+        const stats = await fs.stat(path.join(UPLOAD_DIR, file));
+        return { file, time: stats.mtime.getTime() };
+      })
+    );
+    fileStats.sort((a, b) => b.time - a.time);
+
+    const fileUrls = fileStats.map(f => `${PUBLIC_BASE_URL}/${f.file}`);
 
     return NextResponse.json({ files: fileUrls });
   } catch (error: any) {
@@ -51,21 +59,20 @@ export async function POST(req: NextRequest) {
 
     const formData = await req.formData();
     const file = formData.get("file") as File;
-    const prefix = formData.get("prefix") as string; // "home-" or "mentorship-"
+    const prefix = formData.get("prefix") as string; 
     
     if (!file || !prefix) {
       return NextResponse.json({ error: "File and prefix are required" }, { status: 400 });
     }
 
-    // 1.5MB size limit in bytes
     const MAX_SIZE = 1.5 * 1024 * 1024;
     if (file.size > MAX_SIZE) {
       return NextResponse.json({ error: "File size exceeds 1.5MB limit" }, { status: 400 });
     }
 
-    // Check limits
-    const { data: existingFiles } = await supabase.storage.from(BUCKET_NAME).list("");
-    const sectionFiles = (existingFiles || []).filter(f => f.name.toLowerCase().startsWith(prefix.toLowerCase()));
+    await ensureDir();
+    const existingFiles = await fs.readdir(UPLOAD_DIR);
+    const sectionFiles = existingFiles.filter(f => f.toLowerCase().startsWith(prefix.toLowerCase()));
     
     if (prefix === "home-" && sectionFiles.length >= 3) {
       return NextResponse.json({ error: "Home page limit reached (max 3 videos). Please delete one first." }, { status: 400 });
@@ -80,15 +87,9 @@ export async function POST(req: NextRequest) {
     
     const safeName = file.name.replace(/[^a-zA-Z0-9.\-_]/g, "_");
     const uniqueName = `${prefix}${Date.now()}-${safeName}`;
+    const filePath = path.join(UPLOAD_DIR, uniqueName);
     
-    const { data, error } = await supabase.storage.from(BUCKET_NAME).upload(uniqueName, buffer, {
-      contentType: file.type || "video/mp4",
-      upsert: false
-    });
-
-    if (error) {
-      throw new Error(`Supabase upload failed: ${error.message}`);
-    }
+    await fs.writeFile(filePath, buffer);
 
     return NextResponse.json({ success: true, fileName: uniqueName });
   } catch (error: any) {
@@ -109,10 +110,10 @@ export async function DELETE(req: NextRequest) {
       return NextResponse.json({ error: "No file name provided" }, { status: 400 });
     }
 
-    const { error } = await supabase.storage.from(BUCKET_NAME).remove([fileName]);
-
-    if (error) {
-      throw new Error(`Supabase delete failed: ${error.message}`);
+    const filePath = path.join(UPLOAD_DIR, fileName);
+    
+    if (existsSync(filePath)) {
+      await fs.unlink(filePath);
     }
 
     return NextResponse.json({ success: true });
