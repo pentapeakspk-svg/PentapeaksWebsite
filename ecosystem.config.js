@@ -13,6 +13,8 @@ module.exports = {
       env: {
         NODE_ENV: 'production',
         PORT: 3000,
+        ADMIN_USERNAME: 'admin@pentapeaks.com',
+        ADMINPASSWORD: '!Q@W#E$R%T^Y&U*I(O)P'
       },
       log_date_format: 'YYYY-MM-DD HH:mm Z',
       error_file: 'logs/pm2/error.log',
