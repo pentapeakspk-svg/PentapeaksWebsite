@@ -19,11 +19,6 @@ async function ensureDir() {
 
 export async function GET(req: NextRequest) {
   try {
-    const auth = await verifyAdminSession();
-    if (!auth.isValid) {
-      return NextResponse.json({ error: auth.error || "Unauthorized" }, { status: auth.error?.includes("Forbidden") ? 403 : 401 });
-    }
-
     await ensureDir();
     let files = await fs.readdir(UPLOAD_DIR);
     

@@ -18,39 +18,7 @@ async function getInitialData() {
     prisma.demoClassConfig.findUnique({ where: { id: "1" } }).catch(() => null),
   ])
 
-  let reviewVideos: string[] = []
-  try {
-    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || ""
-    const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || ""
-    
-    if (supabaseUrl && supabaseKey) {
-      // Import dynamically to avoid top-level issues if needed, but fetch is fine
-      const res = await fetch(`${supabaseUrl}/storage/v1/object/list/student-reviews`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${supabaseKey}`,
-          'apikey': supabaseKey
-        },
-        body: JSON.stringify({
-          prefix: "",
-          limit: 100,
-          offset: 0,
-          sortBy: { column: "created_at", order: "desc" },
-        }),
-        next: { revalidate: 30 }
-      });
-      
-      if (res.ok) {
-        const data = await res.json();
-        reviewVideos = data
-          .filter((file: any) => file.name && file.name.match(/\.(mp4|mov)$/i))
-          .map((file: any) => `${supabaseUrl}/storage/v1/object/public/student-reviews/${file.name}`)
-      }
-    }
-  } catch (e) {
-    console.error("Error reading review videos from Supabase", e)
-  }
+// reviewVideos is now fetched directly by MentorshipClient
 
   return {
     batches: batches.map(b => ({
@@ -63,18 +31,16 @@ async function getInitialData() {
       details: demoConfig.details,
       whatsappLink: demoConfig.whatsappLink,
     } : null,
-    reviewVideos,
   }
 }
 
 export default async function MentorshipPage() {
-  const { batches, demoConfig, reviewVideos } = await getInitialData()
+  const { batches, demoConfig } = await getInitialData()
 
   return (
     <MentorshipClient
       initialBatches={batches}
       initialDemoConfig={demoConfig}
-      reviewVideos={reviewVideos}
     />
   )
 }

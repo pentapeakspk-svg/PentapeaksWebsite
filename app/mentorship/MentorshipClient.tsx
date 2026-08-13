@@ -60,7 +60,7 @@ interface MentorshipClientProps {
   reviewVideos: string[]
 }
 
-export default function MentorshipClient({ initialBatches, initialDemoConfig, reviewVideos }: MentorshipClientProps) {
+export default function MentorshipClient({ initialBatches, initialDemoConfig }: MentorshipClientProps) {
   const [batches] = useState<Batch[]>(initialBatches)
   const [form, setForm]       = useState({
     name: "", email: "", phone: "", city: "",
@@ -73,6 +73,7 @@ export default function MentorshipClient({ initialBatches, initialDemoConfig, re
   const isDemoActive = initialDemoConfig?.isActive ?? false
 
   const [mentorshipVideos, setMentorshipVideos] = useState<string[]>([])
+  const [reviewVideos, setReviewVideos] = useState<string[]>([])
 
   useEffect(() => {
     const fetchVideos = async () => {
@@ -84,7 +85,17 @@ export default function MentorshipClient({ initialBatches, initialDemoConfig, re
         console.error("Failed to fetch mentorship videos", err)
       }
     }
+    const fetchReviews = async () => {
+      try {
+        const res = await fetch("/api/admin/student-reviews")
+        const data = await res.json()
+        if (res.ok) setReviewVideos(data.files || [])
+      } catch (err) {
+        console.error("Failed to fetch student reviews", err)
+      }
+    }
     fetchVideos()
+    fetchReviews()
   }, [])
 
   /* ── Review Video Carousel State ── */
