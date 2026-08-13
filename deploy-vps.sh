@@ -16,7 +16,7 @@ echo "=========================================="
 cd $APP_DIR
 
 echo "1. Pulling latest code..."
-git pull origin master
+git pull origin main
 
 echo "2. Installing dependencies..."
 npm ci
