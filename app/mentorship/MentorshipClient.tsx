@@ -57,7 +57,6 @@ type DemoConfig = { isActive: boolean; heading: string; details: string; whatsap
 interface MentorshipClientProps {
   initialBatches: Batch[]
   initialDemoConfig: DemoConfig
-  reviewVideos: string[]
 }
 
 export default function MentorshipClient({ initialBatches, initialDemoConfig }: MentorshipClientProps) {
