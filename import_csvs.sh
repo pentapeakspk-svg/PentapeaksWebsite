@@ -33,12 +33,19 @@ import_table "Batch"
 import_table "Student"
 import_table "BatchEnrollment"
 import_table "Attendance"
+
+# Fix PostgreSQL array literals for Supabase exports ([] -> {})
+sed -i 's/\[\]/{}/g' $CSV_DIR/ClassLink.csv
+sed -i 's/\[\]/{}/g' $CSV_DIR/ClassRecording.csv
+
 import_table "ClassLink"
 import_table "ClassRecording"
 import_table "BlogPost"
 import_table "BuyerInquiry"
 import_table "ContactInquiry"
-import_table "DemoClassConfig"
+# DemoClassConfig CSV is missing required heading column in backup, so we insert a default row
+echo "Importing DemoClassConfig (Default)..."
+sudo -u postgres psql -d $DB_NAME -c "INSERT INTO \"DemoClassConfig\" (id, \"isActive\", heading, details, \"whatsappLink\", \"createdAt\", \"updatedAt\") VALUES ('1', false, 'Demo Class', 'Join our demo class', '', NOW(), NOW()) ON CONFLICT (id) DO NOTHING;"
 import_table "DemoClassEnrollment"
 import_table "Document"
 import_table "RollNoCounter"
