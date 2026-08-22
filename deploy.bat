@@ -1,54 +1,46 @@
 @echo off
-REM Build, Add, Commit, and Push script
-cd /d "d:\Sumair Butt Sab\Website\pentapeaks"
+REM Generic Build, Add, Commit, and Push script
 
 echo ========================================
-echo Step 1: Building Next.js project...
+echo Step 1: Building Next.js project to check for errors...
 echo ========================================
 call npm run build
 if errorlevel 1 (
-    echo Build failed!
+    echo Build failed! Please fix the errors before deploying.
+    pause
     exit /b 1
 )
 
 echo.
 echo ========================================
-echo Step 2: Checking git status...
+echo Step 2: Adding changes...
 echo ========================================
+git add .
 git status
 
 echo.
 echo ========================================
-echo Step 3: Adding changes...
+echo Step 3: Committing changes...
 echo ========================================
-git add app/page.tsx
+set /p commit_msg="Enter your commit message: "
+git commit -m "%commit_msg%"
 
 echo.
 echo ========================================
-echo Step 4: Committing changes...
+echo Step 4: Pushing to GitHub...
 echo ========================================
-git commit -m "fix: Fix homepage banner first image not loading
-
-- Add visibility: visible to .slide-wrap.inactive:first-child to ensure first slide image preloads
-- Apply heroParallax only to active slides to reduce unnecessary transforms
-- Add quality={85} to Image component for better optimization
-- Ensures Next.js Image optimization works properly on initial page load
-
-Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>"
+git push origin main
 
 echo.
 echo ========================================
-echo Step 5: Pushing to remote...
-echo ========================================
-git push
-
-echo.
-echo ========================================
-echo All done!
+echo All done! Code successfully pushed to GitHub.
 echo ========================================
 echo.
 echo NEXT STEP FOR VPS DEPLOYMENT:
-echo To deploy to Hostinger VPS, SSH into your server and run:
-echo ssh user@your-vps-ip "cd /var/www/pentapeaks && ./deploy-vps.sh"
+echo To make this live, SSH into your server:
+echo   ssh root@YOUR_VPS_IP
+echo Then run:
+echo   cd /var/www/pentapeaks
+echo   ./deploy-vps.sh
 echo ========================================
 pause
