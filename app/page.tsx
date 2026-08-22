@@ -100,7 +100,7 @@ const testimonials = [
 ]
 
 const founders = [
-  { name: "Muhammad Sumair Butt", role: "CEO & Founder", image: "/images/Founders/muhammad-sumair-butt-ceo-founder.png", experience: "10+ Years in Global Trade & Mentorship" },
+  { name: "Muhammad Sumair Butt", role: "CEO & Founder", image: "/images/Founders/muhammad-sumair-butt-ceo-founder.webp", experience: "10+ Years in Global Trade & Mentorship" },
   { name: "Muhammad Umar", role: "Director Business Development", image: "/images/Founders/muhammad-umar-director-business-development.webp", experience: "Driving Strategic Partnerships & Growth" },
   { name: "Muhammad Atif", role: "Director Operations", image: "/images/Founders/muhammad-atif-director-operations.webp", experience: "Supply Chain & Logistics Expert" },
   { name: "Ahsen Ansari", role: "Director International Trade", image: "/images/Founders/ahsen-ansari-director-international-trade.webp", experience: "Specialist in Global Negotiations" },
